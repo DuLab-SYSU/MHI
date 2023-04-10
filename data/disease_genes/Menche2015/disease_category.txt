@@ -1,0 +1,300 @@
+disease	category
+abnormalities, multiple	Congenital
+actinomycetales infections	Infectious
+adenocarcinoma	Neoplasms
+adnexal diseases	Others
+adrenal gland diseases	Endocrine
+albuminuria	Others
+alzheimer disease	Nervous system
+amino acid metabolism, inborn errors	Congenital;Metabolic
+amyotrophic lateral sclerosis	Nervous system;Metabolic
+anemia	Others
+anemia, aplastic	Others
+anemia, hemolytic	Others
+aneurysm	Cardiovascular
+ankylosis	Others
+arrhythmias, cardiac	Cardiovascular
+arterial occlusive diseases	Cardiovascular
+arteriosclerosis	Cardiovascular
+arthritis	Others
+arthritis, rheumatoid	Immune system
+asthma	Immune system
+ataxia	Nervous system
+autoimmune diseases	Immune system
+autoimmune diseases of the nervous system	Immune system;Nervous system
+bacterial infections	Infectious
+bacterial infections and mycoses	Infectious
+basal ganglia diseases	Nervous system
+behcet syndrome	Cardiovascular;Congenital
+bile duct diseases	Digestive
+biliary tract diseases	Digestive
+blood coagulation disorders	Others
+blood coagulation disorders, inherited	Congenital
+blood platelet disorders	Others
+blood protein disorders	Others
+body weight	Others
+bone diseases	Others
+bone diseases, developmental	Others
+bone diseases, metabolic	Metabolic
+bone marrow diseases	Others
+brain diseases	Nervous system
+brain diseases, metabolic	Metabolic;Nervous system
+brain diseases, metabolic, inborn	Congenital;Metabolic;Nervous system
+breast diseases	Others
+breast neoplasms	Neoplasms
+bronchial diseases	Others
+carbohydrate metabolism, inborn errors	Congenital;Metabolic
+carcinoma	Neoplasms
+carcinoma, renal cell	Neoplasms
+cardiomegaly	Cardiovascular
+cardiomyopathies	Cardiovascular
+cardiomyopathy, dilated	Cardiovascular;Congenital
+cardiomyopathy, hypertrophic	Cardiovascular
+cardiomyopathy, hypertrophic, familial	Cardiovascular;Congenital
+cardiovascular abnormalities	Cardiovascular;Congenital
+cardiovascular diseases	Cardiovascular
+carotid artery diseases	Cardiovascular;Nervous system
+celiac disease	Digestive;Metabolic
+central nervous system diseases	Nervous system
+cerebellar ataxia	Nervous system
+cerebellar diseases	Nervous system
+cerebrovascular disorders	Cardiovascular;Nervous system
+charcot-marie-tooth disease	Congenital;Nervous system
+cholestasis	Digestive
+cholestasis, intrahepatic	Digestive
+chromosome disorders	Congenital
+colitis	Digestive
+colitis, ulcerative	Digestive
+collagen diseases	Others
+colonic diseases	Digestive
+colorectal neoplasms	Digestive;Neoplasms
+congenital abnormalities	Congenital
+congenital disorders of glycosylation	Congenital;Metabolic
+congenital, hereditary, and neonatal diseases and abnormalities	Congenital
+connective tissue diseases	Others
+coronary artery disease	Cardiovascular
+coronary disease	Cardiovascular
+cranial nerve diseases	Nervous system
+craniofacial abnormalities	Congenital
+crohn disease	Digestive
+death	Others
+death, sudden	Others
+death, sudden, cardiac	Cardiovascular
+dementia	Nervous system
+demyelinating autoimmune diseases, cns	Immune system;Nervous system
+demyelinating diseases	Nervous system
+diabetes mellitus	Endocrine;Metabolic
+diabetes mellitus, type 1	Endocrine;Immune system;Metabolic
+diabetes mellitus, type 2	Endocrine;Metabolic
+digestive system diseases	Digestive
+digestive system neoplasms	Digestive;Neoplasms
+disorders of sex development	Congenital;Endocrine
+dna repair-deficiency disorders	Metabolic
+dwarfism	Congenital;Endocrine
+dyskinesias	Nervous system
+dysostoses	Others
+dyssomnias	Nervous system
+ectodermal dysplasia	Congenital
+endocrine gland neoplasms	Endocrine;Neoplasms
+endocrine system diseases	Endocrine
+epilepsy	Nervous system
+esophageal diseases	Digestive
+exophthalmos	Others
+eye diseases	Others
+eye diseases, hereditary	Congenital
+female urogenital diseases	Others
+female urogenital diseases and pregnancy complications	Others
+gastroenteritis	Digestive
+gastrointestinal diseases	Digestive
+gastrointestinal neoplasms	Digestive;Neoplasms
+genetic diseases, inborn	Congenital
+genetic diseases, x-linked	Congenital
+genital diseases, female	Others
+genital diseases, male	Others
+genital neoplasms, female	Neoplasms
+genital neoplasms, male	Neoplasms
+glioma	Neoplasms
+glomerulonephritis	Others
+glucose metabolism disorders	Metabolic
+goiter	Endocrine
+gonadal disorders	Endocrine
+gout	Congenital;Metabolic
+gram-positive bacterial infections	Infectious
+graves disease	Endocrine;Immune system
+hair diseases	Others
+head and neck neoplasms	Neoplasms
+heart arrest	Cardiovascular
+heart defects, congenital	Cardiovascular;Congenital
+heart diseases	Cardiovascular
+hematologic diseases	Others
+hemic and lymphatic diseases	Others
+hemorrhagic disorders	Others
+hemostatic disorders	Cardiovascular
+hereditary sensory and motor neuropathy	Congenital;Nervous system
+heredodegenerative disorders, nervous system	Congenital;Nervous system
+hyperinsulinism	Metabolic
+hypersensitivity	Immune system
+hypersensitivity, immediate	Immune system
+hyperthyroidism	Endocrine
+hypopigmentation	Others
+hypothalamic diseases	Nervous system
+hypotrichosis	Others
+immune system diseases	Immune system
+immunologic deficiency syndromes	Immune system
+immunoproliferative disorders	Immune system
+infant, newborn, diseases	Congenital
+inflammatory bowel diseases	Digestive
+insulin resistance	Metabolic
+intellectual disability	Nervous system
+intestinal diseases	Digestive
+intestinal neoplasms	Digestive;Neoplasms
+joint diseases	Others
+keratosis	Others
+kidney diseases	Others
+kidney neoplasms	Neoplasms
+leprosy	Infectious
+leukemia	Neoplasms
+leukemia, b-cell	Immune system;Neoplasms
+leukemia, lymphocytic, chronic, b-cell	Immune system;Neoplasms
+leukemia, lymphoid	Immune system;Neoplasms
+leukemia, myeloid	Neoplasms
+leukemia, myeloid, acute	Neoplasms
+limb deformities, congenital	Congenital
+lipid metabolism disorders	Metabolic
+lipid metabolism, inborn errors	Congenital;Metabolic
+lipidoses	Congenital;Metabolic
+liver cirrhosis	Digestive
+liver cirrhosis, biliary	Digestive
+liver diseases	Digestive
+lung diseases	Others
+lung diseases, obstructive	Others
+lung neoplasms	Neoplasms
+lupus erythematosus, systemic	Immune system
+lymphatic diseases	Others
+lymphoma	Immune system;Neoplasms
+lymphoma, non-hodgkin	Immune system;Neoplasms
+lymphoproliferative disorders	Immune system
+lysosomal storage diseases	Congenital;Metabolic
+lysosomal storage diseases, nervous system	Congenital;Metabolic;Nervous system
+macular degeneration	Others
+malabsorption syndromes	Digestive;Metabolic
+male urogenital diseases	Others
+malformations of cortical development	Congenital;Nervous system
+mental retardation, x-linked	Congenital;Nervous system
+metabolic diseases	Metabolic
+metabolic syndrome x	Metabolic
+metabolism, inborn errors	Congenital;Metabolic
+metal metabolism, inborn errors	Congenital;Metabolic
+mitochondrial diseases	Metabolic
+motor neuron disease	Nervous system
+mouth diseases	Others
+movement disorders	Nervous system
+multiple sclerosis	Immune system;Nervous system
+muscular diseases	Nervous system
+muscular disorders, atrophic	Nervous system
+muscular dystrophies	Congenital;Nervous system
+musculoskeletal abnormalities	Congenital
+musculoskeletal diseases	Others
+mycobacterium infections	Infectious
+myeloproliferative disorders	Others
+myocardial infarction	Cardiovascular
+myocardial ischemia	Cardiovascular
+neoplasms	Neoplasms
+neoplasms by histologic type	Neoplasms
+neoplasms by site	Neoplasms
+neoplasms, connective and soft tissue	Neoplasms
+neoplasms, connective tissue	Neoplasms
+neoplasms, germ cell and embryonal	Neoplasms
+neoplasms, glandular and epithelial	Neoplasms
+neoplasms, nerve tissue	Neoplasms
+neoplasms, neuroepithelial	Neoplasms
+neoplastic syndromes, hereditary	Congenital;Neoplasms
+nephritis	Others
+nervous system diseases	Nervous system
+nervous system malformations	Congenital;Nervous system
+neurobehavioral manifestations	Nervous system
+neurodegenerative diseases	Nervous system
+neuroectodermal tumors	Neoplasms
+neuroendocrine tumors	Neoplasms
+neurologic manifestations	Nervous system
+neuromuscular diseases	Nervous system
+nevi and melanomas	Neoplasms
+nutrition disorders	Metabolic
+nutritional and metabolic diseases	Metabolic
+obesity	Metabolic
+ocular motility disorders	Nervous system
+orbital diseases	Others
+osteochondrodysplasias	Congenital
+osteoporosis	Metabolic
+otorhinolaryngologic diseases	Others
+ovarian diseases	Endocrine
+ovarian neoplasms	Endocrine;Neoplasms
+overnutrition	Metabolic
+overweight	Metabolic
+pancreatic diseases	Digestive
+panuveitis	Others
+parkinson disease	Nervous system
+parkinsonian disorders	Nervous system
+pathologic processes	Others
+pathological conditions, anatomical	Others
+pathological conditions, signs and symptoms	Others
+peripheral nervous system diseases	Nervous system
+peroxisomal disorders	Congenital;Metabolic
+pigmentation disorders	Others
+polyneuropathies	Nervous system
+precursor cell lymphoblastic leukemia-lymphoma	Immune system;Neoplasms
+prostatic diseases	Others
+prostatic neoplasms	Neoplasms
+proteinuria	Others
+proteostasis deficiencies	Metabolic
+psoriasis	Others
+purine-pyrimidine metabolism, inborn errors	Congenital;Metabolic
+rectal diseases	Digestive
+renal tubular transport, inborn errors	Congenital;Metabolic
+respiratory hypersensitivity	Immune system
+respiratory tract diseases	Others
+respiratory tract neoplasms	Neoplasms
+retinal degeneration	Others
+retinal diseases	Others
+retinal dystrophies	Others
+retinitis pigmentosa	Congenital
+rheumatic diseases	Others
+sarcoma	Neoplasms
+sensation disorders	Nervous system
+signs and symptoms	Others
+skin abnormalities	Congenital
+skin and connective tissue diseases	Others
+skin diseases	Others
+skin diseases, genetic	Congenital
+skin diseases, papulosquamous	Others
+skin diseases, vascular	Others
+sleep disorders	Nervous system
+spastic paraplegia, hereditary	Congenital;Nervous system
+spinal cord diseases	Nervous system
+spinal diseases	Others
+spinocerebellar ataxias	Congenital;Nervous system
+spinocerebellar degenerations	Congenital;Nervous system
+spondylarthritis	Others
+spondylarthropathies	Others
+spondylitis	Infectious
+spondylitis, ankylosing	Others
+stomatognathic diseases	Others
+stomatognathic system abnormalities	Congenital
+tauopathies	Nervous system
+tdp-43 proteinopathies	Metabolic;Nervous system
+thoracic neoplasms	Neoplasms
+thyroid diseases	Endocrine
+urination disorders	Others
+urogenital abnormalities	Congenital
+urogenital neoplasms	Neoplasms
+urologic diseases	Others
+urologic neoplasms	Neoplasms
+urological manifestations	Others
+uveal diseases	Others
+uveitis	Others
+uveitis, anterior	Others
+varicose veins	Cardiovascular
+vascular diseases	Cardiovascular
+vasculitis	Cardiovascular
+virus diseases	Infectious
+vision disorders	Nervous system
