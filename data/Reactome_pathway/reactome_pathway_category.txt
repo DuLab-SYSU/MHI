@@ -1,0 +1,2592 @@
+pathway	category
+Hemostasis	Hemostasis
+Adaptive Immune System	Immune System
+Disease	Disease
+Complement cascade	Immune System
+Initial triggering of complement	Immune System
+Creation of C4 and C2 activators	Immune System
+Innate Immune System	Immune System
+Immune System	Immune System
+Classical antibody-mediated complement activation	Immune System
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	Immune System
+Cell surface interactions at the vascular wall	Hemostasis
+Fcgamma receptor (FCGR) dependent phagocytosis	Immune System
+FCGR activation	Immune System
+Regulation of actin dynamics for phagocytic cup formation	Immune System
+Role of phospholipids in phagocytosis	Immune System
+Scavenging of heme from plasma	Vesicle-mediated transport
+Binding and Uptake of Ligands by Scavenger Receptors	Vesicle-mediated transport
+Fc epsilon receptor (FCERI) signaling	Immune System
+Role of LAT2/NTAL/LAB on calcium mobilization	Immune System
+FCERI mediated MAPK activation	Immune System
+FCERI mediated Ca+2 mobilization	Immune System
+FCERI mediated NF-kB activation	Immune System
+Vesicle-mediated transport	Vesicle-mediated transport
+Infectious disease	Disease
+CD22 mediated BCR regulation	Immune System
+Leishmania infection	Disease
+Anti-inflammatory response favouring Leishmania parasite infection	Disease
+FCGR3A-mediated IL10 synthesis	Disease
+Parasite infection	Disease
+Leishmania phagocytosis	Disease
+FCGR3A-mediated phagocytosis	Disease
+Leishmania parasite growth and survival	Disease
+Potential therapeutics for SARS	Disease
+SARS-CoV Infections	Disease
+Regulation of Complement cascade	Immune System
+Antigen activates B Cell Receptor (BCR) leading to generation of second messengers	Immune System
+Signaling by the B Cell Receptor (BCR)	Immune System
+Signal Transduction	Signal Transduction
+Signaling by Rho GTPases	Signal Transduction
+RHO GTPase cycle	Signal Transduction
+RHOC GTPase cycle	Signal Transduction
+Signaling by Rho GTPases, Miro GTPases and RHOBTB3	Signal Transduction
+TCR signaling	Immune System
+Downstream TCR signaling	Immune System
+Phosphorylation of CD3 and TCR zeta chains	Immune System
+Translocation of ZAP-70 to Immunological synapse	Immune System
+Generation of second messenger molecules	Immune System
+Costimulation by the CD28 family	Immune System
+PD-1 signaling	Immune System
+Developmental Biology	Developmental Biology
+Keratinization	Developmental Biology
+Formation of the cornified envelope	Developmental Biology
+Organelle biogenesis and maintenance	Organelle biogenesis and maintenance
+Cilium Assembly	Organelle biogenesis and maintenance
+Intraflagellar transport	Organelle biogenesis and maintenance
+Metabolism of proteins	Metabolism of proteins
+Post-translational protein modification	Metabolism of proteins
+Protein ubiquitination	Metabolism of proteins
+E3 ubiquitin ligases ubiquitinate target proteins	Metabolism of proteins
+Generic Transcription Pathway	Gene expression (Transcription)
+Transcriptional Regulation by TP53	Gene expression (Transcription)
+TP53 Regulates Transcription of Cell Cycle Genes	Gene expression (Transcription)
+TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest	Gene expression (Transcription)
+RNA Polymerase II Transcription	Gene expression (Transcription)
+Gene expression (Transcription)	Gene expression (Transcription)
+Synthesis of active ubiquitin: roles of E1 and E2 enzymes	Metabolism of proteins
+Antigen processing: Ubiquitination & Proteasome degradation	Immune System
+Class I MHC mediated antigen processing & presentation	Immune System
+Metabolism	Metabolism
+Glycosphingolipid metabolism	Metabolism
+Sphingolipid metabolism	Metabolism
+Metabolism of lipids	Metabolism
+PPARA activates gene expression	Metabolism
+Transcriptional regulation of white adipocyte differentiation	Developmental Biology
+Regulation of lipid metabolism by PPARalpha	Metabolism
+RND2 GTPase cycle	Signal Transduction
+L1CAM interactions	Developmental Biology
+Axon guidance	Developmental Biology
+Recycling pathway of L1	Developmental Biology
+Nervous system development	Developmental Biology
+Cellular hexose transport	Transport of small molecules
+Transport of small molecules	Transport of small molecules
+SLC-mediated transmembrane transport	Transport of small molecules
+Apoptosis	Programmed Cell Death
+Regulation of Apoptosis	Programmed Cell Death
+Regulation of PAK-2p34 activity by PS-GAP/RHG10	Programmed Cell Death
+Programmed Cell Death	Programmed Cell Death
+RHOA GTPase cycle	Signal Transduction
+CDC42 GTPase cycle	Signal Transduction
+RAC1 GTPase cycle	Signal Transduction
+Stimuli-sensing channels	Transport of small molecules
+SARS-CoV-2 Infection	Disease
+Induction of Cell-Cell Fusion	Disease
+Late SARS-CoV-2 Infection Events	Disease
+Ion channel transport	Transport of small molecules
+Amyloid fiber formation	Metabolism of proteins
+NRAGE signals death through JNK	Signal Transduction
+p75 NTR receptor-mediated signalling	Signal Transduction
+Cell death signalling via NRAGE, NRIF and NADE	Signal Transduction
+Signaling by GPCR	Signal Transduction
+GPCR downstream signalling	Signal Transduction
+G alpha (12/13) signalling events	Signal Transduction
+Death Receptor Signaling	Signal Transduction
+Meiotic synapsis	Cell Cycle
+Reproduction	Reproduction
+Meiosis	Cell Cycle
+Cell Cycle	Cell Cycle
+RHOQ GTPase cycle	Signal Transduction
+RHOG GTPase cycle	Signal Transduction
+Fatty acyl-CoA biosynthesis	Metabolism
+Synthesis of very long-chain fatty acyl-CoAs	Metabolism
+Fatty acid metabolism	Metabolism
+Scavenging by Class B Receptors	Vesicle-mediated transport
+Membrane Trafficking	Vesicle-mediated transport
+COPI-dependent Golgi-to-ER retrograde traffic	Vesicle-mediated transport
+Intra-Golgi and retrograde Golgi-to-ER traffic	Vesicle-mediated transport
+Golgi-to-ER retrograde transport	Vesicle-mediated transport
+Lysine catabolism	Metabolism
+Metabolism of amino acids and derivatives	Metabolism
+tRNA modification in the nucleus and cytosol	Metabolism of RNA
+Synthesis of wybutosine at G37 of tRNA(Phe)	Metabolism of RNA
+tRNA processing	Metabolism of RNA
+Metabolism of RNA	Metabolism of RNA
+RAB GEFs exchange GTP for GDP on RABs	Vesicle-mediated transport
+Rab regulation of trafficking	Vesicle-mediated transport
+Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	Metabolism of proteins
+Asparagine N-linked glycosylation	Metabolism of proteins
+Synthesis of substrates in N-glycan biosythesis	Metabolism of proteins
+GDP-fucose biosynthesis	Metabolism of proteins
+Diseases of glycosylation	Disease
+Diseases associated with O-glycosylation of proteins	Disease
+Defective B3GALTL causes PpS	Disease
+O-linked glycosylation	Metabolism of proteins
+O-glycosylation of TSR domain-containing proteins	Metabolism of proteins
+Diseases of metabolism	Disease
+Olfactory Signaling Pathway	Sensory Perception
+Sensory Perception	Sensory Perception
+Expression and translocation of olfactory receptors	Sensory Perception
+RAB geranylgeranylation	Metabolism of proteins
+HDR through Homologous Recombination (HRR)	DNA Repair
+DNA Double-Strand Break Repair	DNA Repair
+Resolution of D-Loop Structures	DNA Repair
+Homology Directed Repair	DNA Repair
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)	DNA Repair
+Resolution of D-loop Structures through Holliday Junction Intermediates	DNA Repair
+Fanconi Anemia Pathway	DNA Repair
+DNA Repair	DNA Repair
+Sensory processing of sound	Sensory Perception
+Sensory processing of sound by inner hair cells of the cochlea	Sensory Perception
+Sensory processing of sound by outer hair cells of the cochlea	Sensory Perception
+Lipid particle organization	Metabolism
+HIV Life Cycle	Disease
+Budding and maturation of HIV virion	Disease
+Late Phase of HIV Life Cycle	Disease
+HIV Infection	Disease
+Membrane binding and targetting of GAG proteins	Disease
+Synthesis And Processing Of GAG, GAGPOL Polyproteins	Disease
+Assembly Of The HIV Virion	Disease
+Endosomal Sorting Complex Required For Transport (ESCRT)	Vesicle-mediated transport
+HCMV Infection	Disease
+HCMV Late Events	Disease
+Autophagy	Autophagy
+Late endosomal microautophagy	Autophagy
+Downstream signaling events of B Cell Receptor (BCR)	Immune System
+Activation of NF-kappaB in B cells	Immune System
+Cellular response to hypoxia	Cellular responses to stimuli
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	Cellular responses to stimuli
+ER-Phagosome pathway	Immune System
+Antigen processing-Cross presentation	Immune System
+Cross-presentation of soluble exogenous antigens (endosomes)	Immune System
+PIP3 activates AKT signaling	Signal Transduction
+Cytokine Signaling in Immune system	Immune System
+Host Interactions of HIV factors	Disease
+SCF-beta-TrCP mediated degradation of Emi1	Cell Cycle
+APC/C-mediated degradation of cell cycle proteins	Cell Cycle
+APC/C:Cdc20 mediated degradation of Securin	Cell Cycle
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	Cell Cycle
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A	Cell Cycle
+Regulation of APC/C activators between G1/S and early anaphase	Cell Cycle
+APC/C:Cdc20 mediated degradation of mitotic proteins	Cell Cycle
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	Cell Cycle
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	Cell Cycle
+Vpu mediated degradation of CD4	Disease
+Vif-mediated degradation of APOBEC3G	Disease
+Degradation of beta-catenin by the destruction complex	Signal Transduction
+Signaling by WNT	Signal Transduction
+TCF dependent signaling in response to WNT	Signal Transduction
+Regulation of activated PAK-2p34 by proteasome mediated degradation	Programmed Cell Death
+Cellular responses to stress	Cellular responses to stimuli
+Separation of Sister Chromatids	Cell Cycle
+Mitotic Metaphase and Anaphase	Cell Cycle
+Autodegradation of the E3 ubiquitin ligase COP1	Cell Cycle
+Regulation of ornithine decarboxylase (ODC)	Metabolism
+Metabolism of polyamines	Metabolism
+Signaling by ROBO receptors	Developmental Biology
+ABC-family proteins mediated transport	Transport of small molecules
+Beta-catenin independent WNT signaling	Signal Transduction
+PCP/CE pathway	Signal Transduction
+Interleukin-1 family signaling	Immune System
+Signaling by Interleukins	Immune System
+AUF1 (hnRNP D0) binds and destabilizes mRNA	Metabolism of RNA
+Regulation of mRNA stability by proteins that bind AU-rich elements	Metabolism of RNA
+Mitotic G2-G2/M phases	Cell Cycle
+Regulation of mitotic cell cycle	Cell Cycle
+Asymmetric localization of PCP proteins	Signal Transduction
+Degradation of AXIN	Signal Transduction
+Degradation of DVL	Signal Transduction
+Hedgehog ligand biogenesis	Signal Transduction
+Signaling by Hedgehog	Signal Transduction
+Hh mutants are degraded by ERAD	Disease
+Hh mutants abrogate ligand secretion	Disease
+Dectin-1 mediated noncanonical NF-kB signaling	Immune System
+CLEC7A (Dectin-1) signaling	Immune System
+Degradation of GLI1 by the proteasome	Signal Transduction
+Degradation of GLI2 by the proteasome	Signal Transduction
+GLI3 is processed to GLI3R by the proteasome	Signal Transduction
+Hedgehog 'off' state	Signal Transduction
+ABC transporter disorders	Disease
+Disorders of transmembrane transporters	Disease
+C-type lectin receptors (CLRs)	Immune System
+Hedgehog 'on' state	Signal Transduction
+Regulation of RAS by GAPs	Signal Transduction
+Diseases of signal transduction by growth factor receptors and second messengers	Disease
+TNFR2 non-canonical NF-kB pathway	Immune System
+RAF/MAP kinase cascade	Signal Transduction
+NIK-->noncanonical NF-kB signaling	Immune System
+Defective CFTR causes cystic fibrosis	Disease
+MAPK family signaling cascades	Signal Transduction
+MAPK1/MAPK3 signaling	Signal Transduction
+MAPK6/MAPK4 signaling	Signal Transduction
+Deubiquitination	Metabolism of proteins
+UCH proteinases	Metabolism of proteins
+Ub-specific processing proteases	Metabolism of proteins
+PTEN Regulation	Signal Transduction
+Mitotic Anaphase	Cell Cycle
+M Phase	Cell Cycle
+Orc1 removal from chromatin	Cell Cycle
+CDK-mediated phosphorylation and removal of Cdc6	Cell Cycle
+Switching of origins to a post-replicative state	Cell Cycle
+Synthesis of DNA	Cell Cycle
+S Phase	Cell Cycle
+G2/M Transition	Cell Cycle
+Cell Cycle, Mitotic	Cell Cycle
+DNA Replication	DNA Replication
+G2/M Checkpoints	Cell Cycle
+Stabilization of p53	Cell Cycle
+p53-Dependent G1 DNA Damage Response	Cell Cycle
+p53-Dependent G1/S DNA damage checkpoint	Cell Cycle
+Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	Cell Cycle
+p53-Independent DNA Damage Response	Cell Cycle
+p53-Independent G1/S DNA damage checkpoint	Cell Cycle
+G1/S DNA Damage Checkpoints	Cell Cycle
+Cell Cycle Checkpoints	Cell Cycle
+Ubiquitin-dependent degradation of Cyclin D	Cell Cycle
+The role of GTSE1 in G2/M progression after G2 checkpoint	Cell Cycle
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	Cell Cycle
+Transcriptional regulation by RUNX2	Gene expression (Transcription)
+Transcriptional regulation by RUNX1	Gene expression (Transcription)
+RUNX1 regulates transcription of genes involved in differentiation of HSCs	Gene expression (Transcription)
+Regulation of RUNX2 expression and activity	Gene expression (Transcription)
+Regulation of PTEN stability and activity	Signal Transduction
+Neddylation	Metabolism of proteins
+Cellular responses to stimuli	Cellular responses to stimuli
+Intracellular signaling by second messengers	Signal Transduction
+Regulation of expression of SLITs and ROBOs	Developmental Biology
+Interleukin-1 signaling	Immune System
+Cellular response to chemical stress	Cellular responses to stimuli
+KEAP1-NFE2L2 pathway	Cellular responses to stimuli
+G alpha (q) signalling events	Signal Transduction
+G alpha (i) signalling events	Signal Transduction
+G alpha (z) signalling events	Signal Transduction
+Neurotransmitter receptors and postsynaptic signal transmission	Neuronal System
+Transmission across Chemical Synapses	Neuronal System
+Neuronal System	Neuronal System
+Deadenylation-dependent mRNA decay	Metabolism of RNA
+Deadenylation of mRNA	Metabolism of RNA
+TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain	Gene expression (Transcription)
+Histidine catabolism	Metabolism
+RNA Polymerase III Transcription	Gene expression (Transcription)
+RNA Polymerase III Abortive And Retractive Initiation	Gene expression (Transcription)
+RNA Polymerase III Transcription Initiation	Gene expression (Transcription)
+RNA Polymerase III Transcription Initiation From Type 1 Promoter	Gene expression (Transcription)
+RNA Polymerase III Transcription Initiation From Type 2 Promoter	Gene expression (Transcription)
+RNA Polymerase III Transcription Initiation From Type 3 Promoter	Gene expression (Transcription)
+Post-translational modification: synthesis of GPI-anchored proteins	Metabolism of proteins
+Glycolysis	Metabolism
+Glucose metabolism	Metabolism
+Metabolism of carbohydrates	Metabolism
+Triglyceride catabolism	Metabolism
+Triglyceride metabolism	Metabolism
+Transcriptional Regulation by NPAS4	Gene expression (Transcription)
+NPAS4 regulates expression of target genes	Gene expression (Transcription)
+RHO GTPase Effectors	Signal Transduction
+RHO GTPases Activate WASPs and WAVEs	Signal Transduction
+Phase II - Conjugation of compounds	Metabolism
+Glutathione conjugation	Metabolism
+Glutathione synthesis and recycling	Metabolism
+Biological oxidations	Metabolism
+Aflatoxin activation and detoxification	Metabolism
+Drug ADME	Drug ADME
+Paracetamol ADME	Drug ADME
+Serine biosynthesis	Metabolism
+Degradation of the extracellular matrix	Extracellular matrix organization
+Extracellular matrix organization	Extracellular matrix organization
+Translocation of SLC2A4 (GLUT4) to the plasma membrane	Vesicle-mediated transport
+Gap junction trafficking and regulation	Vesicle-mediated transport
+Macroautophagy	Autophagy
+Gap junction trafficking	Vesicle-mediated transport
+Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane	Vesicle-mediated transport
+Gap junction assembly	Vesicle-mediated transport
+Transport of connexons to the plasma membrane	Vesicle-mediated transport
+ER to Golgi Anterograde Transport	Metabolism of proteins
+MHC class II antigen presentation	Immune System
+Resolution of Sister Chromatid Cohesion	Cell Cycle
+Nuclear Envelope (NE) Reassembly	Cell Cycle
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand	Cellular responses to stimuli
+Recruitment of NuMA to mitotic centrosomes	Cell Cycle
+Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding	Metabolism of proteins
+Formation of tubulin folding intermediates by CCT/TriC	Metabolism of proteins
+Post-chaperonin tubulin folding pathway	Metabolism of proteins
+Chaperonin-mediated protein folding	Metabolism of proteins
+Protein folding	Metabolism of proteins
+Post NMDA receptor activation events	Neuronal System
+Activation of NMDA receptors and postsynaptic events	Neuronal System
+RHO GTPases activate IQGAPs	Signal Transduction
+RHO GTPases Activate Formins	Signal Transduction
+COPI-mediated anterograde transport	Metabolism of proteins
+COPI-independent Golgi-to-ER retrograde traffic	Vesicle-mediated transport
+Mitotic Prometaphase	Cell Cycle
+Carboxyterminal post-translational modifications of tubulin	Metabolism of proteins
+Transport to the Golgi and subsequent modification	Metabolism of proteins
+HCMV Early Events	Disease
+Assembly and cell surface presentation of NMDA receptors	Neuronal System
+Activation of AMPK downstream of NMDARs	Neuronal System
+Aggrephagy	Autophagy
+EML4 and NUDC in mitotic spindle formation	Cell Cycle
+Selective autophagy	Autophagy
+Sealing of the nuclear envelope (NE) by ESCRT-III	Cell Cycle
+Kinesins	Hemostasis
+Factors involved in megakaryocyte development and platelet production	Hemostasis
+Amino acids regulate mTORC1	Cellular responses to stimuli
+Cellular response to starvation	Cellular responses to stimuli
+Gastrulation	Developmental Biology
+Formation of paraxial mesoderm	Developmental Biology
+RAC2 GTPase cycle	Signal Transduction
+RAC3 GTPase cycle	Signal Transduction
+Cargo trafficking to the periciliary membrane	Organelle biogenesis and maintenance
+Trafficking of myristoylated proteins to the cilium	Organelle biogenesis and maintenance
+Glyoxylate metabolism and glycine degradation	Metabolism
+DAP12 interactions	Immune System
+Collagen degradation	Extracellular matrix organization
+Collagen formation	Extracellular matrix organization
+Collagen biosynthesis and modifying enzymes	Extracellular matrix organization
+Signaling by PDGF	Signal Transduction
+Assembly of collagen fibrils and other multimeric structures	Extracellular matrix organization
+Integrin cell surface interactions	Extracellular matrix organization
+ECM proteoglycans	Extracellular matrix organization
+NCAM signaling for neurite out-growth	Developmental Biology
+NCAM1 interactions	Developmental Biology
+Collagen chain trimerization	Extracellular matrix organization
+Signaling by Receptor Tyrosine Kinases	Signal Transduction
+RHOB GTPase cycle	Signal Transduction
+RHOD GTPase cycle	Signal Transduction
+RHOJ GTPase cycle	Signal Transduction
+RHOF GTPase cycle	Signal Transduction
+Release of Hh-Np from the secreting cell	Signal Transduction
+ISG15 antiviral mechanism	Immune System
+Antiviral mechanism by IFN-stimulated genes	Immune System
+Transport of the SLBP independent Mature mRNA	Metabolism of RNA
+Transport of the SLBP Dependant Mature mRNA	Metabolism of RNA
+Transport of Mature mRNA Derived from an Intronless Transcript	Metabolism of RNA
+Transport of Mature mRNAs Derived from Intronless Transcripts	Metabolism of RNA
+Transport of Mature mRNA derived from an Intron-Containing Transcript	Metabolism of RNA
+Rev-mediated nuclear export of HIV RNA	Disease
+Influenza Infection	Disease
+Transport of Ribonucleoproteins into the Host Nucleus	Disease
+Influenza Viral RNA Transcription and Replication	Disease
+Export of Viral Ribonucleoproteins from Nucleus	Disease
+NS1 Mediated Effects on Host Pathways	Disease
+Viral Messenger RNA Synthesis	Disease
+NEP/NS2 Interacts with the Cellular Export Machinery	Disease
+Regulation of Glucokinase by Glucokinase Regulatory Protein	Metabolism
+Interactions of Vpr with host cellular proteins	Disease
+Interactions of Rev with host cellular proteins	Disease
+Nuclear import of Rev protein	Disease
+Vpr-mediated nuclear import of PICs	Disease
+snRNP Assembly	Metabolism of RNA
+Metabolism of non-coding RNA	Metabolism of RNA
+Gene Silencing by RNA	Gene expression (Transcription)
+Nuclear Envelope Breakdown	Cell Cycle
+SUMOylation	Metabolism of proteins
+SUMOylation of DNA damage response and repair proteins	Metabolism of proteins
+SUMO E3 ligases SUMOylate target proteins	Metabolism of proteins
+SUMOylation of ubiquitinylation proteins	Metabolism of proteins
+Nuclear Pore Complex (NPC) Disassembly	Cell Cycle
+Regulation of HSF1-mediated heat shock response	Cellular responses to stimuli
+Cellular response to heat stress	Cellular responses to stimuli
+SUMOylation of SUMOylation proteins	Metabolism of proteins
+SUMOylation of chromatin organization proteins	Metabolism of proteins
+SUMOylation of RNA binding proteins	Metabolism of proteins
+SUMOylation of DNA replication proteins	Metabolism of proteins
+Transcriptional regulation by small RNAs	Gene expression (Transcription)
+SLC transporter disorders	Disease
+Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC)	Disease
+tRNA processing in the nucleus	Metabolism of RNA
+Mitotic Prophase	Cell Cycle
+Transport of Mature Transcript to Cytoplasm	Metabolism of RNA
+Processing of Capped Intron-Containing Pre-mRNA	Metabolism of RNA
+Interferon Signaling	Immune System
+SARS-CoV-2 activates/modulates innate and adaptive immune responses	Disease
+SARS-CoV-2-host interactions	Disease
+Activation of SMO	Signal Transduction
+Regulation of PLK1 Activity at G2/M Transition	Cell Cycle
+Loss of Nlp from mitotic centrosomes	Cell Cycle
+Recruitment of mitotic centrosome proteins and complexes	Cell Cycle
+Loss of proteins required for interphase microtubule organization from the centrosome	Cell Cycle
+Centrosome maturation	Cell Cycle
+Anchoring of the basal body to the plasma membrane	Organelle biogenesis and maintenance
+AURKA Activation by TPX2	Cell Cycle
+GABA receptor activation	Neuronal System
+Signaling by NOTCH	Signal Transduction
+Signaling by NOTCH1	Signal Transduction
+Signaling by NOTCH2	Signal Transduction
+Activated NOTCH1 Transmits Signal to the Nucleus	Signal Transduction
+Signaling by NOTCH1 PEST Domain Mutants in Cancer	Disease
+Signaling by NOTCH1 in Cancer	Disease
+Constitutive Signaling by NOTCH1 PEST Domain Mutants	Disease
+Signaling by NOTCH1 HD Domain Mutants in Cancer	Disease
+Constitutive Signaling by NOTCH1 HD Domain Mutants	Disease
+Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	Disease
+Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	Disease
+NOTCH2 Activation and Transmission of Signal to the Nucleus	Signal Transduction
+Signaling by NOTCH3	Signal Transduction
+NOTCH3 Activation and Transmission of Signal to the Nucleus	Signal Transduction
+Deposition of new CENPA-containing nucleosomes at the centromere	Cell Cycle
+Chromosome Maintenance	Cell Cycle
+Nucleosome assembly	Cell Cycle
+Opioid Signalling	Signal Transduction
+G-protein mediated events	Signal Transduction
+Adenylate cyclase inhibitory pathway	Neuronal System
+Peptide hormone metabolism	Metabolism of proteins
+Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)	Metabolism of proteins
+ADP signalling through P2Y purinoceptor 12	Hemostasis
+Signal amplification	Hemostasis
+Incretin synthesis, secretion, and inactivation	Metabolism of proteins
+G alpha (s) signalling events	Signal Transduction
+Platelet activation, signaling and aggregation	Hemostasis
+ESR-mediated signaling	Signal Transduction
+Signaling by Nuclear Receptors	Signal Transduction
+Extra-nuclear estrogen signaling	Signal Transduction
+GPER1 signaling	Signal Transduction
+ADORA2B mediated anti-inflammatory cytokines production	Disease
+Sensory perception of taste	Sensory Perception
+Sensory perception of sweet, bitter, and umami (glutamate) taste	Sensory Perception
+GABA B receptor activation	Neuronal System
+Activation of GABAB receptors	Neuronal System
+Formation of axial mesoderm	Developmental Biology
+BBSome-mediated cargo-targeting to cilium	Organelle biogenesis and maintenance
+Beta defensins	Immune System
+Defensins	Immune System
+Antimicrobial peptides	Immune System
+Peroxisomal lipid metabolism	Metabolism
+Peroxisomal protein import	Protein localization
+Protein localization	Protein localization
+Fertilization	Reproduction
+Sperm Motility And Taxes	Reproduction
+AKT phosphorylates targets in the nucleus	Signal Transduction
+PI3K/AKT Signaling in Cancer	Disease
+Constitutive Signaling by AKT1 E17K in Cancer	Disease
+FOXO-mediated transcription	Gene expression (Transcription)
+Regulation of localization of FOXO transcription factors	Gene expression (Transcription)
+FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	Gene expression (Transcription)
+Cytochrome P450 - arranged by substrate type	Metabolism
+Phase I - Functionalization of compounds	Metabolism
+Endogenous sterols	Metabolism
+Xenobiotics	Metabolism
+Aryl hydrocarbon receptor signalling	Metabolism
+OAS antiviral response	Immune System
+RHOV GTPase cycle	Signal Transduction
+Neutrophil degranulation	Immune System
+Estrogen biosynthesis	Metabolism
+Metabolism of steroid hormones	Metabolism
+Metabolism of steroids	Metabolism
+trans-Golgi Network Vesicle Budding	Vesicle-mediated transport
+Lysosome Vesicle Biogenesis	Vesicle-mediated transport
+Plasmalogen biosynthesis	Metabolism
+Wax and plasmalogen biosynthesis	Metabolism
+TYSND1 cleaves peroxisomal proteins	Protein localization
+Amplification of signal from the kinetochores	Cell Cycle
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	Cell Cycle
+Mitotic Spindle Checkpoint	Cell Cycle
+Signaling by NTRKs	Signal Transduction
+Signaling by NTRK1 (TRKA)	Signal Transduction
+Nuclear Events (kinase and transcription factor activation)	Signal Transduction
+Regulation of TP53 Activity	Gene expression (Transcription)
+Regulation of TP53 Degradation	Gene expression (Transcription)
+Regulation of TP53 Expression and Degradation	Gene expression (Transcription)
+Transcriptional Regulation by MECP2	Gene expression (Transcription)
+NGF-stimulated transcription	Signal Transduction
+Metabolism of nucleotides	Metabolism
+Pyrimidine salvage	Metabolism
+Nucleotide salvage	Metabolism
+Class B/2 (Secretin family receptors)	Signal Transduction
+GPCR ligand binding	Signal Transduction
+mRNA 3'-end processing	Metabolism of RNA
+RNA Polymerase II Transcription Termination	Gene expression (Transcription)
+Mitochondrial Fatty Acid Beta-Oxidation	Metabolism
+Epigenetic regulation of gene expression	Gene expression (Transcription)
+Positive epigenetic regulation of rRNA expression	Gene expression (Transcription)
+B-WICH complex positively regulates rRNA expression	Gene expression (Transcription)
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks	DNA Repair
+DNA Double Strand Break Response	DNA Repair
+Muscle contraction	Muscle contraction
+Cardiac conduction	Muscle contraction
+Ion homeostasis	Muscle contraction
+Ion transport by P-type ATPases	Transport of small molecules
+Interleukin-12 family signaling	Immune System
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation	Immune System
+Interleukin-12 signaling	Immune System
+Potassium Channels	Neuronal System
+Tandem pore domain potassium channels	Neuronal System
+Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK)	Neuronal System
+Phase 4 - resting membrane potential	Muscle contraction
+Interleukin-2 family signaling	Immune System
+Disinhibition of SNARE formation	Hemostasis
+Response to elevated platelet cytosolic Ca2+	Hemostasis
+Lectin pathway of complement activation	Immune System
+Ficolins bind to repetitive carbohydrate structures on the target cell surface	Immune System
+Platelet degranulation 	Hemostasis
+Golgi Associated Vesicle Biogenesis	Vesicle-mediated transport
+Signaling by BRAF and RAF1 fusions	Disease
+Oncogenic MAPK signaling	Disease
+Cytosolic sulfonation of small molecules	Metabolism
+Caspase activation via Death Receptors in the presence of ligand	Programmed Cell Death
+Toll Like Receptor 4 (TLR4) Cascade	Immune System
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane	Immune System
+MyD88-independent TLR4 cascade 	Immune System
+Toll Like Receptor 9 (TLR9) Cascade	Immune System
+Toll Like Receptor TLR1:TLR2 Cascade	Immune System
+Toll Like Receptor 7/8 (TLR7/8) Cascade	Immune System
+Toll Like Receptor TLR6:TLR2 Cascade	Immune System
+Toll-like Receptor Cascades	Immune System
+Toll Like Receptor 2 (TLR2) Cascade	Immune System
+TRIF-mediated programmed cell death	Immune System
+Diseases of Immune System	Disease
+Caspase activation via extrinsic apoptotic signalling pathway	Programmed Cell Death
+Diseases associated with the TLR signaling cascade	Disease
+MyD88 deficiency (TLR2/4)	Disease
+IRAK4 deficiency (TLR2/4)	Disease
+Regulation of TLR by endogenous ligand	Immune System
+Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon	Immune System
+IKK complex recruitment mediated by RIP1	Immune System
+TRIF(TICAM1)-mediated TLR4 signaling 	Immune System
+TRAF6-mediated induction of TAK1 complex within TLR4 complex	Immune System
+Heme signaling	Cellular responses to stimuli
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	Immune System
+MyD88 dependent cascade initiated on endosome	Immune System
+IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation	Immune System
+The citric acid (TCA) cycle and respiratory electron transport	Metabolism
+Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	Metabolism
+Respiratory electron transport	Metabolism
+Complex I biogenesis	Metabolism
+Glycosaminoglycan metabolism	Metabolism
+Hyaluronan metabolism	Metabolism
+Hyaluronan biosynthesis and export	Metabolism
+Regulation by c-FLIP	Programmed Cell Death
+RIPK1-mediated regulated necrosis	Programmed Cell Death
+Regulated Necrosis	Programmed Cell Death
+CASP8 activity is inhibited	Programmed Cell Death
+TP53 Regulates Transcription of Cell Death Genes	Gene expression (Transcription)
+Regulation of necroptotic cell death	Programmed Cell Death
+TP53 Regulates Transcription of Death Receptors and Ligands	Gene expression (Transcription)
+Dimerization of procaspase-8	Programmed Cell Death
+TRAIL  signaling	Signal Transduction
+Class C/3 (Metabotropic glutamate/pheromone receptors)	Signal Transduction
+Class A/1 (Rhodopsin-like receptors)	Signal Transduction
+Peptide ligand-binding receptors	Signal Transduction
+Autodegradation of Cdh1 by Cdh1:APC/C	Cell Cycle
+SCF(Skp2)-mediated degradation of p27/p21	Cell Cycle
+Mitotic G1 phase and G1/S transition	Cell Cycle
+Assembly of the pre-replicative complex	DNA Replication
+DNA Replication Pre-Initiation	DNA Replication
+Cyclin E associated events during G1/S transition 	Cell Cycle
+G1/S Transition	Cell Cycle
+Cyclin A:Cdk2-associated events at S phase entry	Cell Cycle
+Transcriptional regulation by RUNX3	Gene expression (Transcription)
+Regulation of RUNX3 expression and activity	Gene expression (Transcription)
+Signaling by NOTCH4	Signal Transduction
+Negative regulation of NOTCH4 signaling	Signal Transduction
+Nuclear events mediated by NFE2L2	Cellular responses to stimuli
+GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2	Cellular responses to stimuli
+N-glycan trimming in the ER and Calnexin/Calreticulin cycle	Metabolism of proteins
+ER Quality Control Compartment (ERQC)	Metabolism of proteins
+Calnexin/calreticulin cycle	Metabolism of proteins
+Signaling by BMP	Signal Transduction
+Signaling by TGFB family members	Signal Transduction
+Cell-Cell communication	Cell-Cell communication
+Signal regulatory protein family interactions	Cell-Cell communication
+Detoxification of Reactive Oxygen Species	Cellular responses to stimuli
+Ion influx/efflux at host-pathogen interface	Immune System
+Thrombin signalling through proteinase activated receptors (PARs)	Hemostasis
+Signaling by TGF-beta Receptor Complex	Signal Transduction
+Formation of the beta-catenin:TCF transactivating complex	Signal Transduction
+Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	Gene expression (Transcription)
+SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription	Gene expression (Transcription)
+Deactivation of the beta-catenin transactivating complex	Signal Transduction
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	Metabolism of proteins
+Post-translational protein phosphorylation	Metabolism of proteins
+Oxidative Stress Induced Senescence	Cellular responses to stimuli
+Cellular Senescence	Cellular responses to stimuli
+SUMOylation of transcription cofactors	Metabolism of proteins
+SUMOylation of DNA methylation proteins	Metabolism of proteins
+RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	Gene expression (Transcription)
+Regulation of PTEN gene transcription	Signal Transduction
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane	Protein localization
+Formation of RNA Pol II elongation complex 	Gene expression (Transcription)
+Formation of the Early Elongation Complex	Gene expression (Transcription)
+Formation of HIV elongation complex in the absence of HIV Tat	Disease
+Formation of the HIV-1 Early Elongation Complex	Disease
+RNA Pol II CTD phosphorylation and interaction with CE during HIV infection	Disease
+HIV Transcription Elongation	Disease
+Transcription of the HIV genome	Disease
+Formation of HIV-1 elongation complex containing HIV-1 Tat	Disease
+Pausing and recovery of Tat-mediated HIV elongation	Disease
+Abortive elongation of HIV-1 transcript in the absence of Tat	Disease
+Tat-mediated HIV elongation arrest and recovery	Disease
+Tat-mediated elongation of the HIV-1 transcript	Disease
+HIV elongation arrest and recovery	Disease
+Pausing and recovery of HIV elongation	Disease
+RNA Polymerase II Pre-transcription Events	Gene expression (Transcription)
+TP53 Regulates Transcription of DNA Repair Genes	Gene expression (Transcription)
+RNA polymerase II transcribes snRNA genes	Gene expression (Transcription)
+mRNA Capping	Metabolism of RNA
+RNA Polymerase II Transcription Elongation	Gene expression (Transcription)
+RNA Pol II CTD phosphorylation and interaction with CE	Gene expression (Transcription)
+HIV Transcription Initiation	Disease
+RNA Polymerase II HIV Promoter Escape	Disease
+Regulation of TP53 Activity through Phosphorylation	Gene expression (Transcription)
+RNA Polymerase II Promoter Escape	Gene expression (Transcription)
+RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	Gene expression (Transcription)
+RNA Polymerase II Transcription Initiation	Gene expression (Transcription)
+RNA Polymerase II Transcription Initiation And Promoter Clearance	Gene expression (Transcription)
+Free fatty acid receptors	Signal Transduction
+Apoptosis induced DNA fragmentation	Programmed Cell Death
+Apoptotic execution phase	Programmed Cell Death
+Clathrin-mediated endocytosis	Vesicle-mediated transport
+Signaling by ALK in cancer	Disease
+ALK mutants bind TKIs	Disease
+Signaling by ALK fusions and activated point mutants	Disease
+Signaling by NODAL	Developmental Biology
+Regulation of signaling by NODAL	Developmental Biology
+TNFs bind their physiological receptors	Immune System
+L13a-mediated translational silencing of Ceruloplasmin expression	Metabolism of proteins
+Eukaryotic Translation Initiation	Metabolism of proteins
+Translation initiation complex formation	Metabolism of proteins
+Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	Metabolism of proteins
+Formation of a pool of free 40S subunits	Metabolism of proteins
+Formation of the ternary complex, and subsequently, the 43S complex	Metabolism of proteins
+Ribosomal scanning and start codon recognition	Metabolism of proteins
+GTP hydrolysis and joining of the 60S ribosomal subunit	Metabolism of proteins
+Cap-dependent Translation Initiation	Metabolism of proteins
+Translation	Metabolism of proteins
+Presynaptic depolarization and calcium channel opening	Neuronal System
+RHOU GTPase cycle	Signal Transduction
+Activation of ATR in response to replication stress	Cell Cycle
+Activation of the pre-replicative complex	Cell Cycle
+Transcriptional Regulation by E2F6	Gene expression (Transcription)
+BMAL1:CLOCK,NPAS2 activates circadian gene expression	Circadian Clock
+Circadian Clock	Circadian Clock
+PI Metabolism	Metabolism
+Phospholipid metabolism	Metabolism
+Synthesis of PIPs at the plasma membrane	Metabolism
+Negative regulation of the PI3K/AKT network	Signal Transduction
+Constitutive Signaling by Aberrant PI3K in Cancer	Disease
+Interleukin-3, Interleukin-5 and GM-CSF signaling	Immune System
+PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	Signal Transduction
+RET signaling	Developmental Biology
+Signaling by Erythropoietin	Signal Transduction
+Erythropoietin activates Phosphoinositide-3-kinase (PI3K)	Signal Transduction
+Interleukin receptor SHC signaling	Immune System
+Regulation of signaling by CBL	Immune System
+Regulation of pyruvate dehydrogenase (PDH) complex	Metabolism
+Signaling by Retinoic Acid	Signal Transduction
+Pyruvate metabolism	Metabolism
+Pyruvate metabolism and Citric Acid (TCA) cycle	Metabolism
+Transport of vitamins, nucleosides, and related molecules	Transport of small molecules
+Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane	Transport of small molecules
+Neurotransmitter release cycle	Neuronal System
+Glutamate Neurotransmitter Release Cycle	Neuronal System
+Transport of inorganic cations/anions and amino acids/oligopeptides	Transport of small molecules
+P2Y receptors	Signal Transduction
+Nucleotide-like (purinergic) receptors	Signal Transduction
+Defective SLC33A1 causes spastic paraplegia 42 (SPG42)	Disease
+Metabolism of nitric oxide: NOS3 activation and regulation	Metabolism
+NOSTRIN mediated eNOS trafficking	Metabolism
+EPH-Ephrin signaling	Developmental Biology
+Netrin-1 signaling	Developmental Biology
+Nephrin family interactions	Cell-Cell communication
+EPHB-mediated forward signaling	Developmental Biology
+DCC mediated attractive signaling	Developmental Biology
+Nitric oxide stimulates guanylate cyclase	Hemostasis
+Platelet homeostasis	Hemostasis
+cGMP effects	Hemostasis
+vRNP Assembly	Disease
+Mitochondrial biogenesis	Organelle biogenesis and maintenance
+Mitochondrial transcription initiation	Gene expression (Transcription)
+Transcriptional activation of mitochondrial biogenesis	Organelle biogenesis and maintenance
+Transcription from mitochondrial promoters	Gene expression (Transcription)
+MTOR signalling	Signal Transduction
+mTORC1-mediated signalling	Signal Transduction
+Chemokine receptors bind chemokines	Signal Transduction
+HDACs deacetylate histones	Chromatin organization
+Chromatin modifying enzymes	Chromatin organization
+NoRC negatively regulates rRNA expression	Gene expression (Transcription)
+Chromatin organization	Chromatin organization
+Negative epigenetic regulation of rRNA expression	Gene expression (Transcription)
+mRNA Splicing - Major Pathway	Metabolism of RNA
+mRNA Splicing	Metabolism of RNA
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA	Metabolism of RNA
+Synthesis of PIPs at the Golgi membrane	Metabolism
+Synthesis of PIPs at the early endosome membrane	Metabolism
+Synthesis of PIPs at the late endosome membrane	Metabolism
+Integration of energy metabolism	Metabolism
+Regulation of insulin secretion	Metabolism
+PI3K Cascade	Signal Transduction
+IRS-mediated signalling	Signal Transduction
+GPVI-mediated activation cascade	Hemostasis
+Interleukin-7 signaling	Immune System
+Signaling by SCF-KIT	Signal Transduction
+Downstream signal transduction	Signal Transduction
+Signaling by VEGF	Signal Transduction
+PI3K/AKT activation	Signal Transduction
+Signaling by ALK	Signal Transduction
+Tie2 Signaling	Hemostasis
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	Signal Transduction
+DAP12 signaling	Immune System
+IGF1R signaling cascade	Signal Transduction
+IRS-related events triggered by IGF1R	Signal Transduction
+CD28 co-stimulation	Immune System
+CD28 dependent PI3K/Akt signaling	Immune System
+VEGFA-VEGFR2 Pathway	Signal Transduction
+Insulin receptor signalling cascade	Signal Transduction
+Signaling by Insulin receptor	Signal Transduction
+Signaling by KIT in disease	Disease
+Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants	Disease
+Signaling by PDGFR in disease	Disease
+Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants	Disease
+Signaling by PDGFRA extracellular domain mutants	Disease
+RND3 GTPase cycle	Signal Transduction
+RND1 GTPase cycle	Signal Transduction
+Intra-Golgi traffic	Vesicle-mediated transport
+Lysosomal oligosaccharide catabolism	Metabolism
+Heparan sulfate/heparin (HS-GAG) metabolism	Metabolism
+Chondroitin sulfate/dermatan sulfate metabolism	Metabolism
+Metabolism of vitamins and cofactors	Metabolism
+A tetrasaccharide linker sequence is required for GAG synthesis	Metabolism
+HS-GAG biosynthesis	Metabolism
+HS-GAG degradation	Metabolism
+Visual phototransduction	Sensory Perception
+Non-integrin membrane-ECM interactions	Extracellular matrix organization
+Diseases associated with glycosaminoglycan metabolism	Disease
+Defective B4GALT7 causes EDS, progeroid type	Disease
+Defective B3GAT3 causes JDSSDHD	Disease
+Defective EXT2 causes exostoses 2	Disease
+Defective EXT1 causes exostoses 1, TRPS2 and CHDS	Disease
+Defective B3GALT6 causes EDSP2 and SEMDJL1	Disease
+Metabolism of fat-soluble vitamins	Metabolism
+Attachment and Entry	Disease
+Retinoid metabolism and transport	Metabolism
+Early SARS-CoV-2 Infection Events	Disease
+Activation of anterior HOX genes in hindbrain development during early embryogenesis	Developmental Biology
+Activation of HOX genes during differentiation	Developmental Biology
+Insulin processing	Metabolism of proteins
+VxPx cargo-targeting to cilium	Organelle biogenesis and maintenance
+Butyrophilin (BTN) family interactions	Immune System
+Regulation of beta-cell development	Developmental Biology
+Regulation of gene expression in early pancreatic precursor cells	Developmental Biology
+Nuclear Receptor transcription pathway	Gene expression (Transcription)
+SUMOylation of intracellular receptors	Metabolism of proteins
+Estrogen-dependent gene expression	Signal Transduction
+TP53 Regulates Metabolic Genes	Gene expression (Transcription)
+Cytoprotection by HMOX1	Cellular responses to stimuli
+Metalloprotease DUBs	Metabolism of proteins
+Tight junction interactions	Cell-Cell communication
+Cell-cell junction organization	Cell-Cell communication
+Cell junction organization	Cell-Cell communication
+RUNX1 regulates expression of components of tight junctions	Gene expression (Transcription)
+Arachidonic acid metabolism	Metabolism
+CHL1 interactions	Developmental Biology
+Major pathway of rRNA processing in the nucleolus and cytosol	Metabolism of RNA
+rRNA processing	Metabolism of RNA
+rRNA processing in the nucleus and cytosol	Metabolism of RNA
+Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant	Disease
+Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant	Disease
+MECP2 regulates transcription of neuronal ligands	Gene expression (Transcription)
+Ephrin signaling	Developmental Biology
+Neurofascin interactions	Developmental Biology
+Glycerophospholipid biosynthesis	Metabolism
+Synthesis of PI	Metabolism
+rRNA modification in the nucleus and cytosol	Metabolism of RNA
+Association of TriC/CCT with target proteins during biosynthesis	Metabolism of proteins
+Pre-NOTCH Processing in Golgi	Signal Transduction
+Pre-NOTCH Expression and Processing	Signal Transduction
+Class I peroxisomal membrane protein import	Protein localization
+Digestion	Digestion and absorption
+Digestion and absorption	Digestion and absorption
+Interleukin-10 signaling	Immune System
+Interleukin-4 and Interleukin-13 signaling	Immune System
+Myogenesis	Developmental Biology
+Interferon gamma signaling	Immune System
+RNA Polymerase III Transcription Termination	Gene expression (Transcription)
+Pre-NOTCH Transcription and Translation	Signal Transduction
+Oncogene Induced Senescence	Cellular responses to stimuli
+G2 Phase	Cell Cycle
+Cyclin D associated events in G1	Cell Cycle
+G1 Phase	Cell Cycle
+Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects	Disease
+Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)	Disease
+Diseases of mitotic cell cycle	Disease
+Aberrant regulation of mitotic cell cycle due to RB1 defects	Disease
+Telomere Maintenance	Cell Cycle
+Telomere Extension By Telomerase	Cell Cycle
+Extension of Telomeres	Cell Cycle
+COPII-mediated vesicle transport	Metabolism of proteins
+WNT ligand biogenesis and trafficking	Signal Transduction
+Interconversion of nucleotide di- and triphosphates	Metabolism
+Aspirin ADME	Drug ADME
+Gluconeogenesis	Metabolism
+Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components	Cell Cycle
+Inactivation of APC/C via direct inhibition of the APC/C complex	Cell Cycle
+APC/C:Cdc20 mediated degradation of Cyclin B	Cell Cycle
+Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	Cell Cycle
+Phosphorylation of the APC/C	Cell Cycle
+APC-Cdc20 mediated degradation of Nek2A	Cell Cycle
+Senescence-Associated Secretory Phenotype (SASP)	Cellular responses to stimuli
+Transcriptional Regulation by VENTX	Gene expression (Transcription)
+Aberrant regulation of mitotic exit in cancer due to RB1 defects	Disease
+ChREBP activates metabolic gene expression	Metabolism
+Regulation of cholesterol biosynthesis by SREBP (SREBF)	Metabolism
+Biotin transport and metabolism	Metabolism
+Metabolism of water-soluble vitamins and cofactors	Metabolism
+Carnitine metabolism	Metabolism
+Activation of gene expression by SREBF (SREBP)	Metabolism
+Vitamins B6 activation to pyridoxal phosphate	Metabolism
+NR1H2 and NR1H3-mediated signaling	Signal Transduction
+NR1H2 & NR1H3 regulate gene expression linked to lipogenesis	Signal Transduction
+Infection with Mycobacterium tuberculosis	Disease
+Escape of Mtb from the phagocyte	Disease
+Phagocyte cell death caused by cytosolic Mtb	Disease
+Neurexins and neuroligins	Neuronal System
+Protein-protein interactions at synapses	Neuronal System
+Regulation of KIT signaling	Signal Transduction
+Sphingolipid de novo biosynthesis	Metabolism
+RMTs methylate histone arginines	Chromatin organization
+FLT3 Signaling	Immune System
+Negative regulation of FLT3	Immune System
+Growth hormone receptor signaling	Immune System
+Signaling by ERBB2	Signal Transduction
+Signaling by ERBB2 in Cancer	Disease
+Signaling by ERBB4	Signal Transduction
+SHC1 events in ERBB2 signaling	Signal Transduction
+PI3K events in ERBB4 signaling	Signal Transduction
+SHC1 events in ERBB4 signaling	Signal Transduction
+Nuclear signaling by ERBB4	Signal Transduction
+GRB7 events in ERBB2 signaling	Signal Transduction
+Downregulation of ERBB2:ERBB3 signaling	Signal Transduction
+GRB2 events in ERBB2 signaling	Signal Transduction
+PI3K events in ERBB2 signaling	Signal Transduction
+ERBB2 Regulates Cell Motility	Signal Transduction
+ERBB2 Activates PTK6 Signaling	Signal Transduction
+Signaling by PTK6	Signal Transduction
+Downregulation of ERBB2 signaling	Signal Transduction
+Signaling by Non-Receptor Tyrosine Kinases	Signal Transduction
+Signaling by ERBB2 KD Mutants	Disease
+Signaling by ERBB2 TMD/JMD mutants	Disease
+Transport of glycerol from adipocytes to the liver by Aquaporins	Transport of small molecules
+Passive transport by Aquaporins	Transport of small molecules
+Aquaporin-mediated transport	Transport of small molecules
+Citric acid cycle (TCA cycle)	Metabolism
+Cargo recognition for clathrin-mediated endocytosis	Vesicle-mediated transport
+Semaphorin interactions	Developmental Biology
+CRMPs in Sema3A signaling	Developmental Biology
+Interleukin-6 signaling	Immune System
+Signaling by Leptin	Signal Transduction
+Interleukin-6 family signaling	Immune System
+Regulation of IFNG signaling	Immune System
+PTK6 Activates STAT3	Signal Transduction
+RUNX1 regulates transcription of genes involved in differentiation of keratinocytes	Gene expression (Transcription)
+Interferon alpha/beta signaling	Immune System
+Regulation of IFNA/IFNB signaling	Immune System
+Signaling by CSF3 (G-CSF)	Immune System
+Inactivation of CSF3 (G-CSF) signaling	Immune System
+RHO GTPases activate CIT	Signal Transduction
+Chondroitin sulfate biosynthesis	Metabolism
+Dermatan sulfate biosynthesis	Metabolism
+CS/DS degradation	Metabolism
+Defective CHST3 causes SEDCJD	Disease
+Defective CHST14 causes EDS, musculocontractural type	Disease
+Defective CHSY1 causes TPBS	Disease
+XBP1(S) activates chaperone genes	Cellular responses to stimuli
+IRE1alpha activates chaperones	Cellular responses to stimuli
+Unfolded Protein Response (UPR)	Cellular responses to stimuli
+HDMs demethylate histones	Chromatin organization
+Activation of G protein gated Potassium channels	Neuronal System
+G protein gated Potassium channels	Neuronal System
+Inwardly rectifying K+ channels	Neuronal System
+G-protein activation	Signal Transduction
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	Metabolism
+G beta:gamma signalling through PI3Kgamma	Signal Transduction
+Prostacyclin signalling through prostacyclin receptor	Hemostasis
+G-protein beta:gamma signalling	Signal Transduction
+Adrenaline,noradrenaline inhibits insulin secretion	Metabolism
+Ca2+ pathway	Signal Transduction
+G beta:gamma signalling through PLC beta	Signal Transduction
+ADP signalling through P2Y purinoceptor 1	Hemostasis
+Glucagon-type ligand receptors	Signal Transduction
+Thromboxane signalling through TP receptor	Hemostasis
+Vasopressin regulates renal water homeostasis via Aquaporins	Transport of small molecules
+Activation of kainate receptors upon glutamate binding	Neuronal System
+Presynaptic function of Kainate receptors	Neuronal System
+Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	Metabolism of proteins
+G beta:gamma signalling through BTK	Signal Transduction
+G beta:gamma signalling through CDC42	Signal Transduction
+Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	Neuronal System
+Vitamin B5 (pantothenate) metabolism	Metabolism
+WNT mediated activation of DVL	Signal Transduction
+Disassembly of the destruction complex and recruitment of AXIN to the membrane	Signal Transduction
+Negative regulation of TCF-dependent signaling by DVL-interacting proteins	Signal Transduction
+Killing mechanisms	Disease
+WNT5:FZD7-mediated leishmania damping	Disease
+Signaling by Hippo	Signal Transduction
+WNT5A-dependent internalization of FZD4	Signal Transduction
+TWIK-releated acid-sensitive K+ channel (TASK)	Neuronal System
+Cargo concentration in the ER	Metabolism of proteins
+Retrograde transport at the Trans-Golgi-Network	Vesicle-mediated transport
+Signaling by EGFR	Signal Transduction
+EPH-ephrin mediated repulsion of cells	Developmental Biology
+NOTCH4 Activation and Transmission of Signal to the Nucleus	Signal Transduction
+Cobalamin (Cbl, vitamin B12) transport and metabolism	Metabolism
+Defects in cobalamin (B12) metabolism	Disease
+Defects in vitamin and cofactor metabolism	Disease
+Defective ABCD4 causes MAHCJ	Disease
+Uptake of dietary cobalamins into enterocytes	Metabolism
+Transport of RCbl within the body	Metabolism
+Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	Metabolism
+PKMTs methylate histone lysines	Chromatin organization
+RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	Gene expression (Transcription)
+Opsins	Signal Transduction
+Intrinsic Pathway for Apoptosis	Programmed Cell Death
+Formation of apoptosome	Programmed Cell Death
+Activation of caspases through apoptosome-mediated cleavage	Programmed Cell Death
+Cytochrome c-mediated apoptotic response	Programmed Cell Death
+SMAC (DIABLO) binds to IAPs 	Programmed Cell Death
+SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes 	Programmed Cell Death
+SMAC, XIAP-regulated apoptotic response	Programmed Cell Death
+Apoptotic factor-mediated response	Programmed Cell Death
+TP53 Regulates Transcription of Caspase Activators and Caspases	Gene expression (Transcription)
+Regulation of the apoptosome activity	Programmed Cell Death
+Inositol phosphate metabolism	Metabolism
+Synthesis of IP2, IP, and Ins in the cytosol	Metabolism
+Toll Like Receptor 10 (TLR10) Cascade	Immune System
+Toll Like Receptor 3 (TLR3) Cascade	Immune System
+Toll Like Receptor 5 (TLR5) Cascade	Immune System
+Interleukin-17 signaling	Immune System
+MAP kinase activation	Immune System
+JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1	Immune System
+Uptake and function of anthrax toxins	Disease
+Uptake and actions of bacterial toxins	Disease
+MyD88 cascade initiated on plasma membrane	Immune System
+Synthesis of bile acids and bile salts	Metabolism
+Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol	Metabolism
+Bile acid and bile salt metabolism	Metabolism
+alpha-linolenic (omega3) and linoleic (omega6) acid metabolism	Metabolism
+alpha-linolenic acid (ALA) metabolism	Metabolism
+Beta-oxidation of pristanoyl-CoA	Metabolism
+Beta-oxidation of very long chain fatty acids	Metabolism
+Regulation of TP53 Activity through Methylation	Gene expression (Transcription)
+The canonical retinoid cycle in rods (twilight vision)	Sensory Perception
+Homologous DNA Pairing and Strand Exchange	DNA Repair
+Processing of DNA double-strand break ends	DNA Repair
+Presynaptic phase of homologous DNA pairing and strand exchange	DNA Repair
+G2/M DNA damage checkpoint	Cell Cycle
+Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	Cell Cycle
+The phototransduction cascade	Sensory Perception
+Inactivation, recovery and regulation of the phototransduction cascade	Sensory Perception
+Neurophilin interactions with VEGF and VEGFR	Signal Transduction
+Sema3A PAK dependent Axon repulsion	Developmental Biology
+SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion	Developmental Biology
+Signal transduction by L1	Developmental Biology
+TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway	Immune System
+FOXO-mediated transcription of cell cycle genes	Gene expression (Transcription)
+Serotonin Neurotransmitter Release Cycle	Neuronal System
+Norepinephrine Neurotransmitter Release Cycle	Neuronal System
+Dopamine Neurotransmitter Release Cycle	Neuronal System
+Acetylcholine Neurotransmitter Release Cycle	Neuronal System
+Cytosolic sensors of pathogen-associated DNA 	Immune System
+RNA Polymerase III Chain Elongation	Gene expression (Transcription)
+Amine ligand-binding receptors	Signal Transduction
+RAF activation	Signal Transduction
+Signaling by MRAS-complex mutants	Disease
+SHOC2 M1731 mutant abolishes MRAS complex function	Disease
+Gain-of-function MRAS complexes activate RAF signaling	Disease
+GABA synthesis, release, reuptake and degradation	Neuronal System
+CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling	Neuronal System
+Ras activation upon Ca2+ influx through NMDA receptor	Neuronal System
+Alpha-oxidation of phytanate	Metabolism
+Defective OPLAH causes OPLAHD	Disease
+Metabolic disorders of biological oxidation enzymes	Disease
+Free fatty acids regulate insulin secretion	Metabolism
+Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)	Metabolism of proteins
+Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion	Metabolism
+Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways	Immune System
+Inflammasomes	Immune System
+The AIM2 inflammasome	Immune System
+Regulation of HMOX1 expression and activity	Cellular responses to stimuli
+Regulation of BACH1 activity	Cellular responses to stimuli
+NFE2L2 regulating anti-oxidant/detoxification enzymes	Cellular responses to stimuli
+Branched-chain amino acid catabolism	Metabolism
+SARS-CoV-2 modulates host translation machinery	Disease
+Negative regulation of TCF-dependent signaling by WNT ligand antagonists	Signal Transduction
+RHO GTPases Activate Rhotekin and Rhophilins	Signal Transduction
+ZBP1(DAI) mediated induction of type I IFNs	Immune System
+NOD1/2 Signaling Pathway	Immune System
+TICAM1, RIP1-mediated IKK complex recruitment	Immune System
+DDX58/IFIH1-mediated induction of interferon-alpha/beta	Immune System
+RIP-mediated NFkB activation via ZBP1	Immune System
+p75NTR signals via NF-kB	Signal Transduction
+p75NTR recruits signalling complexes	Signal Transduction
+NF-kB is activated and signals survival	Signal Transduction
+TAK1-dependent IKK and NF-kappa-B activation  	Immune System
+Regulation of TNFR1 signaling	Signal Transduction
+TNFR1-induced NFkappaB signaling pathway	Signal Transduction
+IKBKB deficiency causes SCID	Disease
+IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR)	Disease
+IkBA variant leads to EDA-ID	Disease
+MAP3K8 (TPL2)-dependent MAPK1/3 activation	Immune System
+TNF signaling	Signal Transduction
+TRAF6 mediated NF-kB activation	Immune System
+NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10	Immune System
+IRAK1 recruits IKK complex	Immune System
+IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation	Immune System
+Regulation of NF-kappa B signaling	Immune System
+Mitochondrial protein import	Protein localization
+HATs acetylate histones	Chromatin organization
+Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	DNA Repair
+Termination of translesion DNA synthesis	DNA Repair
+DNA Damage Bypass	DNA Repair
+Negative regulators of DDX58/IFIH1 signaling	Immune System
+Syndecan interactions	Extracellular matrix organization
+Synthesis of PG	Metabolism
+Synthesis of PA	Metabolism
+Signaling by EGFR in Cancer	Disease
+GRB2 events in EGFR signaling	Signal Transduction
+GAB1 signalosome	Signal Transduction
+SHC1 events in EGFR signaling	Signal Transduction
+EGFR downregulation	Signal Transduction
+EGFR interacts with phospholipase C-gamma	Signal Transduction
+Signaling by Overexpressed Wild-Type EGFR in Cancer	Disease
+Inhibition of Signaling by Overexpressed EGFR	Disease
+Estrogen-dependent nuclear events downstream of ESR-membrane signaling	Signal Transduction
+EPHA-mediated growth cone collapse	Developmental Biology
+Sema4D in semaphorin signaling	Developmental Biology
+Sema4D induced cell migration and growth-cone collapse	Developmental Biology
+Smooth Muscle Contraction	Muscle contraction
+RHO GTPases activate PKNs	Signal Transduction
+RHO GTPases Activate ROCKs	Signal Transduction
+RHO GTPases activate PAKs	Signal Transduction
+Signaling by MET	Signal Transduction
+Negative regulation of MET activity	Signal Transduction
+InlB-mediated entry of Listeria monocytogenes into host cell	Disease
+Listeria monocytogenes entry into host cells	Disease
+Inhibition of membrane repair	Disease
+Prevention of phagosomal-lysosomal fusion	Disease
+Suppression of phagosomal maturation	Disease
+Response of Mtb to phagocytosis	Disease
+RHOBTB3 ATPase cycle	Signal Transduction
+TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest	Gene expression (Transcription)
+Interaction between PHLDA1 and AURKA	Cell Cycle
+Synthesis of bile acids and bile salts via 24-hydroxycholesterol	Metabolism
+Downregulation of TGF-beta receptor signaling	Signal Transduction
+TGF-beta receptor signaling activates SMADs	Signal Transduction
+HuR (ELAVL1) binds and stabilizes mRNA	Metabolism of RNA
+Cyclin A/B1/B2 associated events during G2/M transition	Cell Cycle
+Reduction of cytosolic Ca++ levels	Hemostasis
+Platelet calcium homeostasis	Hemostasis
+Interaction between L1 and Ankyrins	Developmental Biology
+Other semaphorin interactions	Developmental Biology
+Purine ribonucleoside monophosphate biosynthesis	Metabolism
+Nucleotide biosynthesis	Metabolism
+tRNA processing in the mitochondrion	Metabolism of RNA
+tRNA modification in the mitochondrion	Metabolism of RNA
+rRNA processing in the mitochondrion	Metabolism of RNA
+Downregulation of SMAD2/3:SMAD4 transcriptional activity	Gene expression (Transcription)
+AKT phosphorylates targets in the cytosol	Signal Transduction
+mRNA decay by 5' to 3' exoribonuclease	Metabolism of RNA
+Plasma lipoprotein assembly, remodeling, and clearance	Transport of small molecules
+LDL clearance	Transport of small molecules
+Plasma lipoprotein clearance	Transport of small molecules
+Orexin and neuropeptides FF and QRFP bind to their respective receptors	Signal Transduction
+RNA Polymerase I Transcription Initiation	Gene expression (Transcription)
+RNA Polymerase I Promoter Escape	Gene expression (Transcription)
+RNA Polymerase I Promoter Clearance	Gene expression (Transcription)
+RNA Polymerase I Transcription Termination	Gene expression (Transcription)
+RNA Polymerase I Transcription	Gene expression (Transcription)
+Signaling by FGFR in disease	Disease
+Signaling by cytosolic FGFR1 fusion mutants	Disease
+FGFR1 mutant receptor activation	Disease
+Signaling by FGFR1 in disease	Disease
+Beta-catenin phosphorylation cascade	Signal Transduction
+Signaling by WNT in cancer	Disease
+Signaling by AXIN mutants	Disease
+Signaling by CTNNB1 phospho-site mutants	Disease
+Signaling by APC mutants	Disease
+Signaling by AMER1 mutants	Disease
+Signaling by GSK3beta mutants	Disease
+CTNNB1 S33 mutants aren't phosphorylated	Disease
+CTNNB1 S37 mutants aren't phosphorylated	Disease
+CTNNB1 S45 mutants aren't phosphorylated	Disease
+CTNNB1 T41 mutants aren't phosphorylated	Disease
+APC truncation mutants have impaired AXIN binding	Disease
+AXIN missense mutants destabilize the destruction complex	Disease
+Truncations of AMER1 destabilize the destruction complex	Disease
+RUNX1 regulates estrogen receptor mediated transcription	Gene expression (Transcription)
+RUNX1 regulates transcription of genes involved in WNT signaling	Gene expression (Transcription)
+Germ layer formation at gastrulation	Developmental Biology
+Epithelial-Mesenchymal Transition (EMT) during gastrulation	Developmental Biology
+Prefoldin mediated transfer of substrate  to CCT/TriC	Metabolism of proteins
+Tryptophan catabolism	Metabolism
+Laminin interactions	Extracellular matrix organization
+MET activates PTK2 signaling	Signal Transduction
+MET promotes cell motility	Signal Transduction
+Nonsense-Mediated Decay (NMD)	Metabolism of RNA
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	Metabolism of RNA
+Mitochondrial translation initiation	Metabolism of proteins
+Mitochondrial translation	Metabolism of proteins
+Mitochondrial translation elongation	Metabolism of proteins
+Mitochondrial translation termination	Metabolism of proteins
+Neurotransmitter clearance	Neuronal System
+Abacavir transmembrane transport	Drug ADME
+Abacavir ADME	Drug ADME
+Transport of bile salts and organic acids, metal ions and amine compounds	Transport of small molecules
+Na+/Cl- dependent neurotransmitter transporters	Transport of small molecules
+Organic cation transport	Transport of small molecules
+Organic cation/anion/zwitterion transport	Transport of small molecules
+Ciprofloxacin ADME	Drug ADME
+Signalling to RAS	Signal Transduction
+p38MAPK events	Signal Transduction
+Signalling to ERKs	Signal Transduction
+DSCAM interactions	Developmental Biology
+Striated Muscle Contraction	Muscle contraction
+Synthesis of 15-eicosatetraenoic acid derivatives	Metabolism
+Defective PMM2 causes PMM2-CDG	Disease
+Synthesis of GDP-mannose	Metabolism of proteins
+Diseases associated with glycosylation precursor biosynthesis	Disease
+Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)	DNA Repair
+Diseases of DNA repair	Disease
+Diseases of DNA Double-Strand Break Repair	Disease
+Defective homologous recombination repair (HRR) due to BRCA2 loss of function	Disease
+Defective homologous recombination repair (HRR) due to BRCA1 loss of function	Disease
+Defective homologous recombination repair (HRR) due to PALB2 loss of function	Disease
+Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function	Disease
+Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function	Disease
+Impaired BRCA2 binding to PALB2	Disease
+ROS and RNS production in phagocytes	Immune System
+Insulin receptor recycling	Signal Transduction
+Iron uptake and transport	Transport of small molecules
+Transferrin endocytosis and recycling	Transport of small molecules
+Activation of BH3-only proteins	Programmed Cell Death
+Activation of PUMA and translocation to mitochondria	Programmed Cell Death
+TP53 Regulates Transcription of Genes Involved in Cytochrome C Release	Gene expression (Transcription)
+TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain	Gene expression (Transcription)
+Regulation of TP53 Activity through Association with Co-factors	Gene expression (Transcription)
+Synthesis of IP3 and IP4 in the cytosol	Metabolism
+Signaling by CSF1 (M-CSF) in myeloid cells	Immune System
+NR1D1 (REV-ERBA) represses gene expression	Circadian Clock
+p75NTR negatively regulates cell cycle via SC1	Signal Transduction
+NOTCH1 Intracellular Domain Regulates Transcription	Signal Transduction
+Notch-HLH transcription pathway	Gene expression (Transcription)
+RUNX2 regulates osteoblast differentiation	Gene expression (Transcription)
+RUNX2 regulates bone development	Gene expression (Transcription)
+Loss of function of MECP2 in Rett syndrome	Disease
+Pervasive developmental disorders	Disease
+Loss of MECP2 binding ability to the NCoR/SMRT complex	Disease
+Regulation of MECP2 expression and activity	Gene expression (Transcription)
+NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux	Signal Transduction
+Disorders of Developmental Biology	Disease
+Disorders of Nervous System Development	Disease
+STAT3 nuclear events downstream of ALK signaling	Signal Transduction
+SARS-CoV-1 Infection	Disease
+Attachment and Entry	Disease
+Unblocking of NMDA receptors, glutamate binding and activation	Neuronal System
+Synaptic adhesion-like molecules	Neuronal System
+Negative regulation of NMDA receptor-mediated neuronal transmission	Neuronal System
+Long-term potentiation	Neuronal System
+Basigin interactions	Hemostasis
+Proton-coupled monocarboxylate transport	Transport of small molecules
+Metal ion SLC transporters	Transport of small molecules
+Recycling of bile acids and salts	Metabolism
+Azathioprine ADME	Drug ADME
+Trafficking and processing of endosomal TLR	Immune System
+TLR3 deficiency - HSE	Disease
+UNC93B1 deficiency - HSE	Disease
+TICAM1 deficiency - HSE	Disease
+TRAF3 deficiency - HSE	Disease
+TLR3-mediated TICAM1-dependent programmed cell death	Immune System
+TICAM1-dependent activation of IRF3/IRF7	Immune System
+TICAM1,TRAF6-dependent induction of TAK1 complex	Immune System
+Meiotic recombination	Cell Cycle
+Sialic acid metabolism	Metabolism of proteins
+Glycogen storage diseases	Disease
+Glycogen synthesis	Metabolism
+Glycogen storage disease type 0 (liver GYS2)	Disease
+Glycogen storage disease type IV (GBE1)	Disease
+Diseases of carbohydrate metabolism	Disease
+Glycogen breakdown (glycogenolysis)	Metabolism
+Glycogen metabolism	Metabolism
+Acyl chain remodelling of PC	Metabolism
+Acyl chain remodelling of PS	Metabolism
+Acyl chain remodelling of PE	Metabolism
+Acyl chain remodelling of PI	Metabolism
+Acyl chain remodelling of PG	Metabolism
+FGFR2 mutant receptor activation	Disease
+Signaling by FGFR	Signal Transduction
+MicroRNA (miRNA) biogenesis	Gene expression (Transcription)
+PIWI-interacting RNA (piRNA) biogenesis	Gene expression (Transcription)
+Signaling by FGFR2	Signal Transduction
+Signaling by FGFR2 in disease	Disease
+Nucleotide Excision Repair	DNA Repair
+Formation of TC-NER Pre-Incision Complex	DNA Repair
+Transcription-Coupled Nucleotide Excision Repair (TC-NER)	DNA Repair
+Dual incision in TC-NER	DNA Repair
+Gap-filling DNA repair synthesis and ligation in TC-NER	DNA Repair
+FGFR2 alternative splicing	Signal Transduction
+mRNA Splicing - Minor Pathway	Metabolism of RNA
+Signaling by FGFR2 IIIa TM	Disease
+Inhibition of DNA recombination at telomere	Cell Cycle
+FGFR2 ligand binding and activation	Signal Transduction
+FGFR1 ligand binding and activation	Signal Transduction
+FGFR1b ligand binding and activation	Signal Transduction
+FGFR2b ligand binding and activation	Signal Transduction
+Activated point mutants of FGFR2	Disease
+Phospholipase C-mediated cascade: FGFR1	Signal Transduction
+Phospholipase C-mediated cascade; FGFR2	Signal Transduction
+Downstream signaling of activated FGFR1	Signal Transduction
+SHC-mediated cascade:FGFR1	Signal Transduction
+PI-3K cascade:FGFR1	Signal Transduction
+FRS-mediated FGFR1 signaling	Signal Transduction
+PI-3K cascade:FGFR2	Signal Transduction
+Downstream signaling of activated FGFR2	Signal Transduction
+SHC-mediated cascade:FGFR2	Signal Transduction
+FRS-mediated FGFR2 signaling	Signal Transduction
+Negative regulation of FGFR1 signaling	Signal Transduction
+Negative regulation of FGFR2 signaling	Signal Transduction
+Signaling by FGFR1	Signal Transduction
+FGFRL1 modulation of FGFR1 signaling	Signal Transduction
+NFE2L2 regulates pentose phosphate pathway genes	Cellular responses to stimuli
+Recognition and association of DNA glycosylase with site containing an affected purine	DNA Repair
+Base Excision Repair	DNA Repair
+Depurination	DNA Repair
+Base-Excision Repair, AP Site Formation	DNA Repair
+Diseases of Base Excision Repair	Disease
+Defective Base Excision Repair Associated with OGG1	Disease
+Defective OGG1 Localization	Disease
+Recognition and association of DNA glycosylase with site containing an affected pyrimidine	DNA Repair
+Cleavage of the damaged pyrimidine 	DNA Repair
+Cleavage of the damaged purine	DNA Repair
+Displacement of DNA glycosylase by APEX1	DNA Repair
+APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway	DNA Repair
+Depyrimidination	DNA Repair
+Resolution of Abasic Sites (AP sites)	DNA Repair
+Defective OGG1 Substrate Binding	Disease
+Defective OGG1 Substrate Processing	Disease
+Vitamin D (calciferol) metabolism	Metabolism
+Vitamins	Metabolism
+Defective CYP27B1 causes VDDR1A	Disease
+Activation of AKT2	Signal Transduction
+Integrin signaling	Hemostasis
+RSK activation	Neuronal System
+VEGFR2 mediated vascular permeability	Signal Transduction
+VEGFR2 mediated cell proliferation	Signal Transduction
+Platelet Aggregation (Plug Formation)	Hemostasis
+Estrogen-stimulated signaling through PRKCZ	Signal Transduction
+SARS-CoV-1-host interactions	Disease
+SARS-CoV-1 targets host intracellular signalling and regulatory pathways	Disease
+SARS-CoV-2 targets host intracellular signalling and regulatory pathways	Disease
+Antigen Presentation: Folding, assembly and peptide loading of class I MHC	Immune System
+NOTCH3 Intracellular Domain Regulates Transcription	Signal Transduction
+Elevation of cytosolic Ca2+ levels	Hemostasis
+The NLRP3 inflammasome	Immune System
+Purinergic signaling in leishmaniasis infection	Disease
+Cell recruitment (pro-inflammatory response)	Disease
+Ca2+ activated K+ channels	Neuronal System
+Modulation by Mtb of host immune system	Disease
+TET1,2,3 and TDG demethylate DNA	Gene expression (Transcription)
+Sema4D mediated inhibition of cell attachment and migration	Developmental Biology
+SIRT1 negatively regulates rRNA expression	Gene expression (Transcription)
+N-glycan antennae elongation in the medial/trans-Golgi	Metabolism of proteins
+N-Glycan antennae elongation	Metabolism of proteins
+RA biosynthesis pathway	Signal Transduction
+Invadopodia formation	Extracellular matrix organization
+activated TAK1 mediates p38 MAPK activation	Immune System
+IRAK2 mediated activation of TAK1 complex	Immune System
+SARS-CoV-1 activates/modulates innate immune responses	Disease
+PRC2 methylates histones and DNA	Gene expression (Transcription)
+Release of apoptotic factors from the mitochondria	Programmed Cell Death
+Transport and synthesis of PAPS	Metabolism
+Selenoamino acid metabolism	Metabolism
+Metabolism of ingested H2SeO4 and H2SeO3 into H2Se	Metabolism
+Proline catabolism	Metabolism
+MET Receptor Activation	Signal Transduction
+Signaling by MST1	Signal Transduction
+Digestion of dietary carbohydrate	Digestion and absorption
+Keratan sulfate/keratin metabolism	Metabolism
+Keratan sulfate biosynthesis	Metabolism
+O-linked glycosylation of mucins	Metabolism of proteins
+Attachment of GPI anchor to uPAR	Metabolism of proteins
+Caspase activation via Dependence Receptors in the absence of ligand	Programmed Cell Death
+Inactivation of CDC42 and RAC1	Developmental Biology
+PKA-mediated phosphorylation of CREB	Signal Transduction
+Calmodulin induced events	Signal Transduction
+Ca-dependent events	Signal Transduction
+CaM pathway	Signal Transduction
+PLC beta mediated events	Signal Transduction
+DAG and IP3 signaling	Signal Transduction
+Glucagon signaling in metabolic regulation	Metabolism
+PKA activation	Signal Transduction
+PKA activation in glucagon signalling	Metabolism
+Adenylate cyclase activating pathway	Signal Transduction
+Synthesis of pyrophosphates in the cytosol	Metabolism
+Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells	Developmental Biology
+Alpha-protein kinase 1 signaling pathway	Immune System
+Signaling by activated point mutants of FGFR3	Disease
+FGFR3 ligand binding and activation	Signal Transduction
+FGFR4 ligand binding and activation	Signal Transduction
+FGFR3c ligand binding and activation	Signal Transduction
+FGFR2c ligand binding and activation	Signal Transduction
+FGFR3 mutant receptor activation	Disease
+Phospholipase C-mediated cascade; FGFR3	Signal Transduction
+Phospholipase C-mediated cascade; FGFR4	Signal Transduction
+SHC-mediated cascade:FGFR3	Signal Transduction
+FRS-mediated FGFR3 signaling	Signal Transduction
+Downstream signaling of activated FGFR3	Signal Transduction
+PI-3K cascade:FGFR3	Signal Transduction
+FRS-mediated FGFR4 signaling	Signal Transduction
+Downstream signaling of activated FGFR4	Signal Transduction
+SHC-mediated cascade:FGFR4	Signal Transduction
+PI-3K cascade:FGFR4	Signal Transduction
+Negative regulation of FGFR3 signaling	Signal Transduction
+Negative regulation of FGFR4 signaling	Signal Transduction
+Signaling by FGFR3	Signal Transduction
+Signaling by FGFR4	Signal Transduction
+Signaling by FGFR3 in disease	Disease
+Ligand-receptor interactions	Signal Transduction
+HHAT G278V doesn't palmitoylate Hh-Np	Disease
+Transcriptional regulation of testis differentiation	Developmental Biology
+Cytosolic tRNA aminoacylation	Metabolism of proteins
+tRNA Aminoacylation	Metabolism of proteins
+Ovarian tumor domain proteases	Metabolism of proteins
+RHOBTB2 GTPase cycle	Signal Transduction
+RHOBTB1 GTPase cycle	Signal Transduction
+RHOBTB GTPase Cycle	Signal Transduction
+Voltage gated Potassium channels	Neuronal System
+ATF6 (ATF6-alpha) activates chaperones	Cellular responses to stimuli
+CREB3 factors activate genes	Cellular responses to stimuli
+Assembly of active LPL and LIPC lipase complexes	Transport of small molecules
+Plasma lipoprotein remodeling	Transport of small molecules
+Synthesis, secretion, and deacylation of Ghrelin	Metabolism of proteins
+Transcriptional regulation of pluripotent stem cells	Developmental Biology
+Energy dependent regulation of mTOR by LKB1-AMPK	Signal Transduction
+Defective LARGE causes MDDGA6 and MDDGB6	Disease
+Interaction With Cumulus Cells And The Zona Pellucida	Reproduction
+Multifunctional anion exchangers	Transport of small molecules
+Defective SLC26A4 causes Pendred syndrome (PDS)	Disease
+Activation of BIM and translocation to mitochondria 	Programmed Cell Death
+BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members	Programmed Cell Death
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	Disease
+Neurodegenerative Diseases	Disease
+RUNX3 regulates BCL2L11 (BIM) transcription	Gene expression (Transcription)
+FOXO-mediated transcription of cell death genes	Gene expression (Transcription)
+Diseases of programmed cell death	Disease
+Defective Intrinsic Pathway for Apoptosis	Disease
+Regulation of FOXO transcriptional activity by acetylation	Gene expression (Transcription)
+Reactions specific to the complex N-glycan synthesis pathway	Metabolism of proteins
+Hormone ligand-binding receptors	Signal Transduction
+Signaling by NTRK2 (TRKB)	Signal Transduction
+Activated NTRK2 signals through FRS2 and FRS3	Signal Transduction
+Reversible hydration of carbon dioxide	Metabolism
+Spry regulation of FGF signaling	Signal Transduction
+Purine catabolism	Metabolism
+Nucleotide catabolism	Metabolism
+Pyroptosis	Programmed Cell Death
+Translation of Replicase and Assembly of the Replication Transcription Complex	Disease
+Translation of Replicase and Assembly of the Replication Transcription Complex	Disease
+Activation of RAC1	Developmental Biology
+Regulation of cortical dendrite branching	Developmental Biology
+Tyrosine catabolism	Metabolism
+Phenylalanine and tyrosine metabolism	Metabolism
+AMPK inhibits chREBP transcriptional activation activity	Metabolism
+Activation of PPARGC1A (PGC-1alpha) by phosphorylation	Organelle biogenesis and maintenance
+Lipophagy	Autophagy
+Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters	Disease
+Nef mediated downregulation of MHC class I complex cell surface expression	Disease
+The role of Nef in HIV-1 replication and disease pathogenesis	Disease
+MASTL Facilitates Mitotic Progression	Cell Cycle
+Processing of Capped Intronless Pre-mRNA	Metabolism of RNA
+Processing of Intronless Pre-mRNAs	Metabolism of RNA
+Signaling by cytosolic PDGFRA and PDGFRB fusion proteins	Disease
+Hyaluronan uptake and degradation	Metabolism
+Blood group systems biosynthesis	Metabolism
+Lewis blood group biosynthesis	Metabolism
+Glycogen storage disease type Ib (SLC37A4)	Disease
+CLEC7A (Dectin-1) induces NFAT activation	Immune System
+Ribavirin ADME	Drug ADME
+Anchoring fibril formation	Extracellular matrix organization
+Crosslinking of collagen fibrils	Extracellular matrix organization
+Apoptotic cleavage of cellular proteins	Programmed Cell Death
+Caspase-mediated cleavage of cytoskeletal proteins	Programmed Cell Death
+E2F-enabled inhibition of pre-replication complex formation	Cell Cycle
+E2F mediated regulation of DNA replication	Cell Cycle
+Assembly of the ORC complex at the origin of replication	DNA Replication
+CDC6 association with the ORC:origin complex	DNA Replication
+VEGF ligand-receptor interactions	Signal Transduction
+VEGF binds to VEGFR leading to receptor dimerization	Signal Transduction
+ARL13B-mediated ciliary trafficking of INPP5E	Organelle biogenesis and maintenance
+RAS processing	Signal Transduction
+Suppression of apoptosis	Disease
+Suppression of autophagy	Disease
+Latent infection - Other responses of Mtb to phagocytosis	Disease
+Tolerance by Mtb to nitric oxide produced by macrophages	Disease
+Establishment of Sister Chromatid Cohesion	Cell Cycle
+Cohesin Loading onto Chromatin	Cell Cycle
+Mitotic Telophase/Cytokinesis	Cell Cycle
+NR1H2 & NR1H3 regulate gene expression linked to triglyceride lipolysis in adipose	Signal Transduction
+Signaling by activated point mutants of FGFR1	Disease
+FGFR3b ligand binding and activation	Signal Transduction
+FGFR1c ligand binding and activation	Signal Transduction
+Mitophagy	Autophagy
+PINK1-PRKN Mediated Mitophagy	Autophagy
+Josephin domain DUBs	Metabolism of proteins
+RHOT2 GTPase cycle	Signal Transduction
+RHOT1 GTPase cycle	Signal Transduction
+Miro GTPase Cycle	Signal Transduction
+Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3	Signal Transduction
+Regulation of FZD by ubiquitination	Signal Transduction
+Signaling by RNF43 mutants	Disease
+Trafficking of AMPA receptors	Neuronal System
+Glutamate binding, activation of AMPA receptors and synaptic plasticity	Neuronal System
+LGI-ADAM interactions	Developmental Biology
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells	Developmental Biology
+Linoleic acid (LA) metabolism	Metabolism
+Defective pyroptosis	Disease
+NrCAM interactions	Developmental Biology
+N-glycan trimming and elongation in the cis-Golgi	Metabolism of proteins
+Progressive trimming of alpha-1,2-linked mannose residues from Man9/8/7GlcNAc2 to produce Man5GlcNAc2	Metabolism of proteins
+POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation	Developmental Biology
+Intracellular metabolism of fatty acids regulates insulin secretion	Metabolism
+Defective AMN causes MGA1	Disease
+Defective CUBN causes MGA1	Disease
+HDL clearance	Transport of small molecules
+Gamma carboxylation, hypusine formation and arylsulfatase activation	Metabolism of proteins
+Defects of contact activation system (CAS) and kallikrein/kinin system (KKS)	Disease
+Defective factor VIII causes hemophilia A	Disease
+Diseases of hemostasis	Disease
+Defective F8 sulfation at Y1699	Disease
+Interactions of Tat with host cellular proteins	Disease
+MyD88 deficiency (TLR5)	Disease
+IRAK4 deficiency (TLR5)	Disease
+Glucuronidation	Metabolism
+Chaperone Mediated Autophagy	Autophagy
+HDR through Single Strand Annealing (SSA)	DNA Repair
+Impaired BRCA2 binding to RAD51	Disease
+Translesion synthesis by REV1	DNA Repair
+Translesion synthesis by POLK	DNA Repair
+Translesion synthesis by POLI	DNA Repair
+MAPK3 (ERK1) activation	Signal Transduction
+RAF-independent MAPK1/3 activation	Signal Transduction
+MAPK1 (ERK2) activation	Signal Transduction
+Prolactin receptor signaling	Immune System
+IL-6-type cytokine receptor ligand interactions	Immune System
+Signaling by moderate kinase activity BRAF mutants	Disease
+Signaling by RAS mutants	Disease
+Paradoxical activation of RAF signaling by kinase inactive BRAF	Disease
+Interleukin-20 family signaling	Immune System
+Interleukin-35 Signalling	Immune System
+Interleukin-23 signaling	Immune System
+Interleukin-27 signaling	Immune System
+Erythropoietin activates Phospholipase C gamma (PLCG)	Signal Transduction
+Erythropoietin activates STAT5	Signal Transduction
+Erythropoietin activates RAS	Signal Transduction
+Signaling downstream of RAS mutants	Disease
+Signaling by RAF1 mutants	Disease
+Protein methylation	Metabolism of proteins
+Formation of the active cofactor, UDP-glucuronate	Metabolism
+ATP sensitive Potassium channels	Neuronal System
+Defective ABCC9 causes CMD10, ATFB12 and Cantu syndrome	Disease
+Adherens junctions interactions	Cell-Cell communication
+InlA-mediated entry of Listeria monocytogenes into host cells	Disease
+Activation of the phototransduction cascade	Sensory Perception
+Sodium/Calcium exchangers	Transport of small molecules
+Defective SLC24A1 causes congenital stationary night blindness 1D (CSNB1D)	Disease
+Acyl chain remodeling of CL	Metabolism
+HCN channels	Neuronal System
+Synthesis of dolichyl-phosphate mannose	Metabolism of proteins
+Defective DPM1 causes DPM1-CDG	Disease
+Defective DPM3 causes DPM3-CDG	Disease
+Defective DPM2 causes DPM2-CDG	Disease
+Golgi Cisternae Pericentriolar Stack Reorganization	Cell Cycle
+Vitamin B1 (thiamin) metabolism	Metabolism
+Packaging Of Telomere Ends	Cell Cycle
+Condensation of Prophase Chromosomes	Cell Cycle
+DNA Damage/Telomere Stress Induced Senescence	Cellular responses to stimuli
+ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression	Gene expression (Transcription)
+DNA methylation	Gene expression (Transcription)
+Nonhomologous End-Joining (NHEJ)	DNA Repair
+RNA Polymerase I Promoter Opening	Gene expression (Transcription)
+Transcriptional regulation of granulopoiesis	Developmental Biology
+Regulation of glycolysis by fructose 2,6-bisphosphate metabolism	Metabolism
+Calcitonin-like ligand receptors	Signal Transduction
+Ceramide signalling	Signal Transduction
+TNFR1-mediated ceramide production	Signal Transduction
+RORA activates gene expression	Circadian Clock
+Endosomal/Vacuolar pathway	Immune System
+Activation of Matrix Metalloproteinases	Extracellular matrix organization
+Miscellaneous transport and binding events	Transport of small molecules
+HDR through MMEJ (alt-NHEJ)	DNA Repair
+Sensing of DNA Double Strand Breaks	DNA Repair
+Keratan sulfate degradation	Metabolism
+Defective CHST6 causes MCDC1	Disease
+Defective ST3GAL3 causes MCT12 and EIEE15	Disease
+Defective B4GALT1 causes B4GALT1-CDG (CDG-2d)	Disease
+Phase 0 - rapid depolarisation	Muscle contraction
+Mitochondrial ABC transporters	Transport of small molecules
+Cytosolic iron-sulfur cluster assembly	Metabolism
+SUMOylation of transcription factors	Metabolism of proteins
+Regulation of commissural axon pathfinding by SLIT and ROBO	Developmental Biology
+RHOH GTPase cycle	Signal Transduction
+Role of ABL in ROBO-SLIT signaling	Developmental Biology
+Receptor-type tyrosine-protein phosphatases	Neuronal System
+Formation of xylulose-5-phosphate	Metabolism
+Signaling by LRP5 mutants 	Disease
+Ubiquinol biosynthesis	Metabolism
+Metabolism of cofactors	Metabolism
+Synthesis of 12-eicosatetraenoic acid derivatives	Metabolism
+Diseases associated with N-glycosylation of proteins	Disease
+Defective MPDU1 causes CDG-1f	Disease
+Phosphate bond hydrolysis by NTPDase proteins	Metabolism
+NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis	Signal Transduction
+TBC/RABGAPs	Vesicle-mediated transport
+Receptor Mediated Mitophagy	Autophagy
+Amino acid transport across the plasma membrane	Transport of small molecules
+Unwinding of DNA	Cell Cycle
+DNA strand elongation	Cell Cycle
+G1/S-Specific Transcription	Cell Cycle
+Cristae formation	Organelle biogenesis and maintenance
+Mitochondrial calcium ion transport	Transport of small molecules
+Processing of SMDT1	Transport of small molecules
+Integration of provirus	Disease
+Early Phase of HIV Life Cycle	Disease
+2-LTR circle formation	Disease
+Integration of viral DNA into host genomic DNA	Disease
+Autointegration results in viral DNA circles	Disease
+APOBEC3G mediated resistance to HIV-1 infection	Disease
+HSF1 activation	Cellular responses to stimuli
+Attenuation phase	Cellular responses to stimuli
+HSF1-dependent transactivation	Cellular responses to stimuli
+PTK6 Regulates Proteins Involved in RNA Processing	Signal Transduction
+Initiation of Nuclear Envelope (NE) Reformation	Cell Cycle
+Reelin signalling pathway	Developmental Biology
+Small interfering RNA (siRNA) biogenesis	Gene expression (Transcription)
+Platelet Adhesion to exposed collagen	Hemostasis
+ERK/MAPK targets	Immune System
+CREB phosphorylation	Immune System
+MAPK targets/ Nuclear events mediated by MAP kinases	Immune System
+CD209 (DC-SIGN) signaling	Immune System
+Signaling by Activin	Signal Transduction
+Threonine catabolism	Metabolism
+TNFR1-induced proapoptotic signaling	Signal Transduction
+eNOS activation	Metabolism
+Regulation of TP53 Expression	Gene expression (Transcription)
+Postmitotic nuclear pore complex (NPC) reformation	Cell Cycle
+Aspartate and asparagine metabolism	Metabolism
+TRP channels	Transport of small molecules
+Metabolism of Angiotensinogen to Angiotensins	Metabolism of proteins
+Prednisone ADME	Drug ADME
+Response of EIF2AK1 (HRI) to heme deficiency	Cellular responses to stimuli
+Cholesterol biosynthesis	Metabolism
+Cholesterol biosynthesis via desmosterol	Metabolism
+Cholesterol biosynthesis via lathosterol	Metabolism
+Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate	Disease
+NADPH regeneration	Metabolism
+NFE2L2 regulating TCA cycle genes	Cellular responses to stimuli
+Synthesis of bile acids and bile salts via 27-hydroxycholesterol	Metabolism
+Defective CYP7B1 causes SPG5A and CBAS3	Disease
+Metabolism of folate and pterines	Metabolism
+Acyl chain remodeling of DAG and TAG	Metabolism
+Triglyceride biosynthesis	Metabolism
+The retinoid cycle in cones (daylight vision)	Sensory Perception
+Effects of PIP2 hydrolysis	Hemostasis
+CD28 dependent Vav1 pathway	Immune System
+Formation of Incision Complex in GG-NER	DNA Repair
+Global Genome Nucleotide Excision Repair (GG-NER)	DNA Repair
+Carnitine synthesis	Metabolism
+Formation of ATP by chemiosmotic coupling	Metabolism
+Defective SLC22A5 causes systemic primary carnitine deficiency (CDSP)	Disease
+SRP-dependent cotranslational protein targeting to membrane	Metabolism of proteins
+Regulation of TP53 Activity through Acetylation	Gene expression (Transcription)
+Synthesis of glycosylphosphatidylinositol (GPI)	Metabolism of proteins
+Recognition of DNA damage by PCNA-containing replication complex	DNA Repair
+Synthesis of UDP-N-acetyl-glucosamine	Metabolism of proteins
+SLIT2:ROBO1 increases RHOA activity	Developmental Biology
+Signaling by plasma membrane FGFR1 fusions	Disease
+Glutamate and glutamine metabolism	Metabolism
+Metabolism of porphyrins	Metabolism
+Heme degradation	Metabolism
+Atorvastatin ADME	Drug ADME
+Transport of organic anions	Transport of small molecules
+Trafficking of GluR2-containing AMPA receptors	Neuronal System
+Nef Mediated CD4 Down-regulation	Disease
+Retrograde neurotrophin signalling	Signal Transduction
+Nef Mediated CD8 Down-regulation	Disease
+WNT5A-dependent internalization of FZD2, FZD5 and ROR2	Signal Transduction
+VLDLR internalisation and degradation	Transport of small molecules
+Pyrimidine catabolism	Metabolism
+Methylation of MeSeH for excretion	Metabolism
+Polo-like kinase mediated events	Cell Cycle
+Condensation of Prometaphase Chromosomes	Cell Cycle
+Activation of NIMA Kinases NEK9, NEK6, NEK7	Cell Cycle
+G2/M DNA replication checkpoint	Cell Cycle
+TWIK related potassium channel (TREK)	Neuronal System
+Regulation of gene expression in beta cells	Developmental Biology
+Lysosphingolipid and LPA receptors	Signal Transduction
+Pregnenolone biosynthesis	Metabolism
+Netrin mediated repulsion signals	Developmental Biology
+Retinoid cycle disease events	Disease
+Diseases associated with visual transduction	Disease
+Diseases of the neuronal system	Disease
+Synthesis of PIPs at the ER membrane	Metabolism
+Defective ABCC6 causes PXE	Disease
+Interleukin-18 signaling	Immune System
+Mitochondrial Uncoupling	Metabolism
+The fatty acid cycling model	Metabolism
+The proton buffering model	Metabolism
+Activation of RAS in B cells	Immune System
+Rap1 signalling	Immune System
+XAV939 stabilizes AXIN	Disease
+Myoclonic epilepsy of Lafora	Disease
+Pentose phosphate pathway	Metabolism
+Defective PAPSS2 causes SEMD-PA	Disease
+Defective ABCB11 causes PFIC2 and BRIC2	Disease
+Mitochondrial tRNA aminoacylation	Metabolism of proteins
+Elastic fibre formation	Extracellular matrix organization
+Molecules associated with elastic fibres	Extracellular matrix organization
+Molybdenum cofactor biosynthesis	Metabolism
+Loss of Function of SMAD2/3 in Cancer	Disease
+Signaling by TGF-beta Receptor Complex in Cancer	Disease
+SMAD2/3 Phosphorylation Motif Mutants in Cancer	Disease
+TGFBR1 KD Mutants in Cancer	Disease
+Loss of Function of TGFBR1 in Cancer	Disease
+Type II Na+/Pi cotransporters	Transport of small molecules
+Sodium-coupled phosphate cotransporters	Transport of small molecules
+Defective SLC34A2 causes pulmonary alveolar microlithiasis (PALM)	Disease
+Surfactant metabolism	Metabolism of proteins
+Defective SLC34A2 causes PALM	Disease
+Diseases associated with surfactant metabolism	Disease
+ATF4 activates genes in response to endoplasmic reticulum  stress	Cellular responses to stimuli
+PERK regulates gene expression	Cellular responses to stimuli
+KSRP (KHSRP) binds and destabilizes mRNA	Metabolism of RNA
+Depolymerisation of the Nuclear Lamina	Cell Cycle
+Defective ABCA1 causes TGD	Disease
+HDL assembly	Transport of small molecules
+Plasma lipoprotein assembly	Transport of small molecules
+Defective SLC2A10 causes arterial tortuosity syndrome (ATS)	Disease
+Nicotinate metabolism	Metabolism
+Sulfide oxidation to sulfate	Metabolism
+Degradation of cysteine and homocysteine	Metabolism
+Sulfur amino acid metabolism	Metabolism
+Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	Gene expression (Transcription)
+Activation of the TFAP2 (AP-2) family of transcription factors	Gene expression (Transcription)
+Role of second messengers in netrin-1 signaling	Developmental Biology
+Antagonism of Activin by Follistatin	Signal Transduction
+Inhibition of Host mRNA Processing and RNA Silencing	Disease
+Calcineurin activates NFAT	Immune System
+betaKlotho-mediated ligand binding	Signal Transduction
+Interleukin-33 signaling	Immune System
+TRAF3-dependent IRF activation pathway	Immune System
+TRAF6 mediated IRF7 activation	Immune System
+Acetylcholine regulates insulin secretion	Metabolism
+Synthesis of dolichyl-phosphate-glucose	Metabolism of proteins
+RUNX2 regulates genes involved in cell migration	Gene expression (Transcription)
+Interleukin-37 signaling	Immune System
+DNA Damage Recognition in GG-NER	DNA Repair
+G0 and Early G1	Cell Cycle
+Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes	Cell Cycle
+Vitamin C (ascorbate) metabolism	Metabolism
+Ethanol oxidation	Metabolism
+Fructose metabolism	Metabolism
+Fructose catabolism	Metabolism
+Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation	Metabolism
+Phenylketonuria	Disease
+Phenylalanine metabolism	Metabolism
+Defective SLC40A1 causes hemochromatosis 4 (HFE4) (macrophages)	Disease
+Defective CP causes aceruloplasminemia (ACERULOP)	Disease
+Intrinsic Pathway of Fibrin Clot Formation	Hemostasis
+Common Pathway of Fibrin Clot Formation	Hemostasis
+Formation of Fibrin Clot (Clotting Cascade)	Hemostasis
+Defective factor IX causes hemophilia B	Disease
+Defective factor IX causes thrombophilia	Disease
+Defective F8 accelerates dissociation of the A2 domain	Disease
+Defective F8 cleavage by thrombin	Disease
+Defective F8 binding to von Willebrand factor	Disease
+Defective F8 binding to the cell membrane	Disease
+Defective cofactor function of FVIIIa variant	Disease
+Defective F8 secretion	Disease
+Defective F9 variant does not activate FX	Disease
+Urea cycle	Metabolism
+Purine salvage	Metabolism
+Defective PNP disrupts phosphorolysis of (deoxy)guanosine and (deoxy)inosine	Disease
+Nucleotide catabolism defects	Disease
+Diseases of nucleotide metabolism	Disease
+Nucleotide salvage defects	Disease
+Defective HPRT1 disrupts guanine and hypoxanthine salvage	Disease
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	Disease
+PLCG1 events in ERBB2 signaling	Signal Transduction
+EGFR Transactivation by Gastrin	Signal Transduction
+Constitutive Signaling by EGFRvIII	Disease
+Signaling by EGFRvIII in Cancer	Disease
+Signaling by Ligand-Responsive EGFR Variants in Cancer	Disease
+Gastrin-CREB signalling pathway via PKC and MAPK	Signal Transduction
+PTK6 promotes HIF1A stabilization	Signal Transduction
+TFAP2 (AP-2) family regulates transcription of growth factors and their receptors	Gene expression (Transcription)
+Signaling by ERBB2 ECD mutants	Disease
+Manipulation of host energy metabolism	Disease
+Uptake and function of diphtheria toxin	Disease
+Lactose synthesis	Metabolism
+Gamma-carboxylation of protein precursors	Metabolism of proteins
+Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus	Metabolism of proteins
+Removal of aminoterminal propeptides from gamma-carboxylated proteins	Metabolism of proteins
+Gamma-carboxylation, transport, and amino-terminal cleavage of proteins	Metabolism of proteins
+Defective factor XII causes hereditary angioedema	Disease
+Extrinsic Pathway of Fibrin Clot Formation	Hemostasis
+Defective F9 secretion	Disease
+Defective F9 activation	Disease
+Defective gamma-carboxylation of F9	Disease
+Alternative complement activation	Immune System
+Dissolution of Fibrin Clot	Hemostasis
+Defective SERPING1 causes hereditary angioedema	Disease
+Activation of C3 and C5	Immune System
+Defective ADA disrupts (deoxy)adenosine deamination	Disease
+Erythrocytes take up carbon dioxide and release oxygen	Transport of small molecules
+Erythrocytes take up oxygen and release carbon dioxide	Transport of small molecules
+O2/CO2 exchange in erythrocytes	Transport of small molecules
+Terminal pathway of complement	Immune System
+Activation of the AP-1 family of transcription factors	Immune System
+Transcription of E2F targets under negative control by DREAM complex	Cell Cycle
+Binding of TCF/LEF:CTNNB1 to target gene promoters	Signal Transduction
+TFAP2 (AP-2) family regulates transcription of cell cycle factors	Gene expression (Transcription)
+RUNX3 regulates WNT signaling	Gene expression (Transcription)
+Regulation of NFE2L2 gene expression	Cellular responses to stimuli
+SOS-mediated signalling	Signal Transduction
+SHC-related events triggered by IGF1R	Signal Transduction
+Signaling by FGFR4 in disease	Disease
+MAP2K and MAPK activation	Signal Transduction
+Negative regulation of MAPK pathway	Signal Transduction
+Signaling by high-kinase activity BRAF mutants	Disease
+RAS signaling downstream of NF1 loss-of-function variants	Disease
+PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases	Signal Transduction
+MET activates RAS signaling	Signal Transduction
+Activated NTRK2 signals through RAS	Signal Transduction
+Signaling by NTRK3 (TRKC)	Signal Transduction
+Activated NTRK3 signals through RAS	Signal Transduction
+Constitutive Signaling by Overexpressed ERBB2	Disease
+RAS GTPase cycle mutants	Disease
+FLT3 signaling in disease	Disease
+Signaling by FLT3 fusion proteins	Disease
+Signaling by FLT3 ITD and TKD mutants	Disease
+Signaling by RAS GAP mutants	Disease
+Signaling by RAS GTPase mutants	Disease
+RUNX3 regulates p14-ARF	Gene expression (Transcription)
+Chylomicron clearance	Transport of small molecules
+Influenza Virus Induced Apoptosis	Disease
+TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)	Signal Transduction
+Loss of Function of TGFBR2 in Cancer	Disease
+TGFBR2 MSI Frameshift Mutants in Cancer	Disease
+TGFBR2 Kinase Domain Mutants in Cancer	Disease
+TGFBR1 LBD Mutants in Cancer	Disease
+RUNX3 regulates CDKN1A transcription	Gene expression (Transcription)
+PLC-gamma1 signalling	Signal Transduction
+NGF processing	Signal Transduction
+Prolonged ERK activation events	Signal Transduction
+Frs2-mediated activation	Signal Transduction
+ARMS-mediated activation	Signal Transduction
+Activation of TRKA receptors	Signal Transduction
+TRKA activation by NGF	Signal Transduction
+Signalling to p38 via RIT and RIN	Signal Transduction
+p75NTR regulates axonogenesis	Signal Transduction
+Signalling to STAT3	Signal Transduction
+NFG and proNGF binds to p75NTR	Signal Transduction
+NADE modulates death signalling	Signal Transduction
+NRIF signals cell death from the nucleus	Signal Transduction
+Axonal growth stimulation	Signal Transduction
+Expression and Processing of Neurotrophins	Signal Transduction
+YAP1- and WWTR1 (TAZ)-stimulated gene expression	Gene expression (Transcription)
+Physiological factors	Muscle contraction
+Vasopressin-like receptors	Signal Transduction
+Defective AVP does not bind AVPR1A,B and causes neurohypophyseal diabetes insipidus (NDI)	Disease
+Defective AVP does not bind AVPR2 and causes neurohypophyseal diabetes insipidus (NDI)	Disease
+Androgen biosynthesis	Metabolism
+Glucocorticoid biosynthesis	Metabolism
+Peptide hormone biosynthesis	Metabolism of proteins
+Defective ACTH causes obesity and POMCD	Disease
+Mineralocorticoid biosynthesis	Metabolism
+Metabolism of amine-derived hormones	Metabolism
+Glycoprotein hormones	Metabolism of proteins
+Thyroxine biosynthesis	Metabolism
+IRS activation	Signal Transduction
+Signal attenuation	Signal Transduction
+Intestinal infectious diseases	Disease
+RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)	Gene expression (Transcription)
+Interleukin-1 processing	Immune System
+CLEC7A/inflammasome pathway	Immune System
+Regulation of gene expression by Hypoxia-inducible Factor	Cellular responses to stimuli
+Interleukin-2 signaling	Immune System
+Alpha-defensins	Immune System
+Binding and entry of HIV virion	Disease
+Other interleukin signaling	Immune System
+Intracellular oxygen transport	Transport of small molecules
+Scavenging by Class A Receptors	Vesicle-mediated transport
+GP1b-IX-V activation signalling	Hemostasis
+Type I hemidesmosome assembly	Cell-Cell communication
+Breakdown of the nuclear lamina	Programmed Cell Death
+ABC transporters in lipid homeostasis	Transport of small molecules
+Chylomicron assembly	Transport of small molecules
+Chylomicron remodeling	Transport of small molecules
+HDL remodeling	Transport of small molecules
+VLDL assembly	Transport of small molecules
+VLDL clearance	Transport of small molecules
+GRB2:SOS provides linkage to MAPK signaling for Integrins 	Hemostasis
+p130Cas linkage to MAPK signaling for integrins	Hemostasis
+EGR2 and SOX10-mediated initiation of Schwann cell myelination	Developmental Biology
+Acetylcholine binding and downstream events	Neuronal System
+Presynaptic nicotinic acetylcholine receptors	Neuronal System
+Postsynaptic nicotinic acetylcholine receptors	Neuronal System
+Highly calcium permeable postsynaptic nicotinic acetylcholine receptors	Neuronal System
+Highly calcium permeable nicotinic acetylcholine receptors	Neuronal System
+Bicarbonate transporters	Transport of small molecules
+Defective SLC4A1 causes hereditary spherocytosis type 4 (HSP4),  distal renal tubular acidosis (dRTA) and dRTA with hemolytic anemia (dRTA-HA)	Disease
+Fibronectin matrix formation	Extracellular matrix organization
+Nuclear events stimulated by ALK signaling in cancer	Disease
+Retinoid metabolism disease events	Disease
+Heme biosynthesis	Metabolism
+Mtb iron assimilation by chelation	Disease
+Metal sequestration by antimicrobial proteins	Immune System
+Response to metal ions	Cellular responses to stimuli
+Metallothioneins bind metals	Cellular responses to stimuli
+Dectin-2 family	Immune System
+Virus Assembly and Release	Disease
+Fusion and Uncoating of the Influenza Virion	Disease
+Entry of Influenza Virion into Host Cell via Endocytosis	Disease
+Fusion of the Influenza Virion to the Host Cell Endosome	Disease
+Release	Disease
+Budding	Disease
+Packaging of Eight RNA Segments	Disease
+Viral RNP Complexes in the Host Cell Nucleus	Disease
+Uncoating of the Influenza Virion	Disease
+vRNA Synthesis	Disease
+Viral mRNA Translation	Disease
+cRNA Synthesis	Disease
+Assembly of Viral Components at the Budding Site	Disease
+Transport of HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum to the Golgi Apparatus	Disease
+Inhibition of Interferon Synthesis	Disease
+Inhibition of IFN-beta	Disease
+Inhibition of PKR	Disease
+Microbial modulation of RIPK1-mediated regulated necrosis	Disease
+Defective RIPK1-mediated regulated necrosis	Disease
+tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis	Gene expression (Transcription)
+Negative feedback regulation of MAPK pathway	Signal Transduction
+Formyl peptide receptors bind formyl peptides and many other ligands	Signal Transduction
+Relaxin receptors	Signal Transduction
+Scavenging by Class F Receptors	Vesicle-mediated transport
+Scavenging by Class H Receptors	Vesicle-mediated transport
+Platelet sensitization by LDL	Hemostasis
+LDL remodeling	Transport of small molecules
+Digestion of dietary lipid	Digestion and absorption
+RUNX1 regulates transcription of genes involved in differentiation of myeloid cells	Gene expression (Transcription)
+PTK6 Expression	Signal Transduction
+Regulation of NPAS4 gene expression	Gene expression (Transcription)
+Regulation of NPAS4 gene transcription	Gene expression (Transcription)
+Advanced glycosylation endproduct receptor signaling	Immune System
+Synthesis and processing of ENV and VPU	Disease
+Uncoating of the HIV Virion	Disease
+Reverse Transcription of HIV RNA	Disease
+Minus-strand DNA synthesis	Disease
+Plus-strand DNA synthesis	Disease
+Nef mediated downregulation of CD28 cell surface expression	Disease
+Nef and signal transduction	Disease
+Drug-mediated inhibition of ERBB2 signaling	Signal Transduction
+Drug resistance in ERBB2 KD mutants	Disease
+Resistance of ERBB2 KD mutants to trastuzumab	Disease
+Resistance of ERBB2 KD mutants to sapitinib	Disease
+Resistance of ERBB2 KD mutants to tesevatinib	Disease
+Resistance of ERBB2 KD mutants to neratinib	Disease
+Resistance of ERBB2 KD mutants to osimertinib	Disease
+Resistance of ERBB2 KD mutants to afatinib	Disease
+Resistance of ERBB2 KD mutants to AEE788	Disease
+Resistance of ERBB2 KD mutants to lapatinib	Disease
+Drug resistance in ERBB2 TMD/JMD mutants	Disease
+NGF-independant TRKA activation	Signal Transduction
+Activation of NOXA and translocation to mitochondria	Programmed Cell Death
+Formation of Senescence-Associated Heterochromatin Foci (SAHF)	Cellular responses to stimuli
+PI5P Regulates TP53 Acetylation	Gene expression (Transcription)
+Transcriptional activation of p53 responsive genes  	Cell Cycle
+Transcriptional  activation of  cell cycle inhibitor p21 	Cell Cycle
+Loss of function of TP53 in cancer due to loss of tetramerization ability	Disease
+Loss of Function of TP53 in Cancer	Disease
+Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)	Metabolism
+Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)	Metabolism
+Biosynthesis of DHA-derived SPMs	Metabolism
+Biosynthesis of specialized proresolving mediators (SPMs)	Metabolism
+Biosynthesis of protectins	Metabolism
+Cross-presentation of particulate exogenous antigens (phagosomes)	Immune System
+RHO GTPases Activate NADPH Oxidases	Signal Transduction
+Maturation of spike protein	Disease
+Translation of Structural Proteins	Disease
+Neurotoxicity of clostridium toxins	Disease
+Toxicity of tetanus toxin (tetX)	Disease
+Hereditary fructose intolerance	Disease
+Transport of fatty acids	Transport of small molecules
+Metabolism of serotonin	Neuronal System
+Serotonin clearance from the synaptic cleft	Neuronal System
+Defective CYP17A1 causes AH5	Disease
+PECAM1 interactions	Hemostasis
+Defective CYP11A1 causes AICSR	Disease
+Vpr-mediated induction of apoptosis by mitochondrial outer membrane permeabilization	Disease
+Events associated with phagocytolytic activity of PMN cells	Immune System
+Defects in biotin (Btn) metabolism	Disease
+Defective HLCS causes multiple carboxylase deficiency	Disease
+Propionyl-CoA catabolism	Metabolism
+Methylation	Metabolism
+Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2	Metabolism
+Biosynthesis of maresins	Metabolism
+Biosynthesis of maresin-like SPMs	Metabolism
+CYP2E1 reactions	Metabolism
+Recycling of eIF2:GDP	Metabolism of proteins
+Response of EIF2AK4 (GCN2) to amino acid deficiency	Cellular responses to stimuli
+CD163 mediating an anti-inflammatory response	Disease
+Eukaryotic Translation Elongation	Metabolism of proteins
+Peptide chain elongation	Metabolism of proteins
+Selenocysteine synthesis	Metabolism
+Eukaryotic Translation Termination	Metabolism of proteins
+Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	Metabolism of RNA
+Negative regulation of activity of TFAP2 (AP-2) family transcription factors	Gene expression (Transcription)
+TFAP2 (AP-2) family regulates transcription of other transcription factors	Gene expression (Transcription)
+TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation	Gene expression (Transcription)
+Localization of the PINCH-ILK-PARVIN complex to focal adhesions	Cell-Cell communication
+Cell-extracellular matrix interactions	Cell-Cell communication
+MET interacts with TNS proteins	Signal Transduction
+The IPAF inflammasome	Immune System
+CTLA4 inhibitory signaling	Immune System
+FLT3 signaling through SRC family kinases	Immune System
+Activated NTRK2 signals through FYN	Signal Transduction
+NTRK2 activates RAC1	Signal Transduction
+Synthesis of PC	Metabolism
+Inhibition of replication initiation of damaged DNA by RB1/E2F1	Cell Cycle
+Defective translocation of RB1 mutants to the nucleus	Disease
+SARS-CoV-1 Genome Replication and Transcription	Disease
+Replication of the SARS-CoV-1 genome	Disease
+SARS-CoV-2 Genome Replication and Transcription	Disease
+Replication of the SARS-CoV-2 genome	Disease
+Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	Cell Cycle
+Phosphorylation of proteins involved in the G2/M transition by Cyclin A:Cdc2 complexes	Cell Cycle
+Phosphorylation of Emi1	Cell Cycle
+Creatine metabolism	Metabolism
+NOTCH2 intracellular domain regulates transcription	Signal Transduction
+POLB-Dependent Long Patch Base Excision Repair	DNA Repair
+Resolution of AP sites via the multiple-nucleotide patch replacement pathway	DNA Repair
+Resolution of AP sites via the single-nucleotide replacement pathway	DNA Repair
+PCNA-Dependent Long Patch Base Excision Repair	DNA Repair
+Abasic sugar-phosphate removal via the single-nucleotide replacement pathway	DNA Repair
+Defective HEXA causes GM2G1	Disease
+Catecholamine biosynthesis	Metabolism
+Synthesis of 5-eicosatetraenoic acids	Metabolism
+Abacavir metabolism	Drug ADME
+Highly sodium permeable postsynaptic acetylcholine nicotinic receptors	Neuronal System
+Adrenoceptors	Signal Transduction
+Defective HEXB causes GM2G2	Disease
+Defective APRT disrupts adenine salvage	Disease
+Defective GALT can cause GALCT	Disease
+Galactose catabolism	Metabolism
+Defective pro-SFTPB causes SMDP1 and RDS	Disease
+Defective CSF2RB causes SMDP5	Disease
+Defective CSF2RA causes SMDP4	Disease
+Dual Incision in GG-NER	DNA Repair
+Oligomerization of connexins into connexons	Vesicle-mediated transport
+Transport of connexins along the secretory pathway	Vesicle-mediated transport
+Axonal growth inhibition (RHOA activation)	Signal Transduction
+Regulated proteolysis of p75NTR	Signal Transduction
+GLI proteins bind promoters of Hh responsive genes to promote transcription	Signal Transduction
+Muscarinic acetylcholine receptors	Signal Transduction
+Defective SLC7A7 causes lysinuric protein intolerance (LPI)	Disease
+Mucopolysaccharidoses	Disease
+MPS VII - Sly syndrome	Disease
+Transfer of LPS from LBP carrier to CD14	Immune System
+MET activates PI3K/AKT signaling	Signal Transduction
+MET activates PTPN11	Signal Transduction
+MET activates RAP1 and RAC1	Signal Transduction
+MET receptor recycling	Signal Transduction
+MET activates STAT3	Signal Transduction
+MECP2 regulates neuronal receptors and channels	Gene expression (Transcription)
+Drug-mediated inhibition of MET activation	Signal Transduction
+Defective CYP21A2 causes AH3	Disease
+RUNX1 regulates transcription of genes involved in interleukin signaling	Gene expression (Transcription)
+SARS-CoV-1 modulates host translation machinery	Disease
+The activation of arylsulfatases	Metabolism of proteins
+Serotonin receptors	Signal Transduction
+Adrenaline signalling through Alpha-2 adrenergic receptor	Hemostasis
+Gap junction degradation	Vesicle-mediated transport
+Formation of annular gap junctions	Vesicle-mediated transport
+Glycine degradation	Metabolism
+Intestinal saccharidase deficiencies	Disease
+Polymerase switching on the C-strand of the telomere	Cell Cycle
+Telomere C-strand (Lagging Strand) Synthesis	Cell Cycle
+Telomere C-strand synthesis initiation	Cell Cycle
+DNA replication initiation	Cell Cycle
+Polymerase switching	Cell Cycle
+Leading Strand Synthesis	Cell Cycle
+Removal of the Flap Intermediate	Cell Cycle
+Processive synthesis on the lagging strand	Cell Cycle
+Lagging Strand Synthesis	Cell Cycle
+Synthesis of Leukotrienes (LT) and Eoxins (EX)	Metabolism
+Synthesis of Lipoxins (LX)	Metabolism
+Biosynthesis of D-series resolvins	Metabolism
+Biosynthesis of EPA-derived SPMs	Metabolism
+Biosynthesis of DPA-derived SPMs	Metabolism
+Biosynthesis of E-series 18(S)-resolvins	Metabolism
+Biosynthesis of aspirin-triggered D-series resolvins	Metabolism
+Biosynthesis of E-series 18(R)-resolvins	Metabolism
+Biosynthesis of DPAn-3 SPMs	Metabolism
+Biosynthesis of DPAn-3-derived protectins and resolvins	Metabolism
+Biosynthesis of DPAn-3-derived maresins	Metabolism
+Biosynthesis of DPAn-3-derived 13-series resolvins	Metabolism
+Biosynthesis of electrophilic ω-3 PUFA oxo-derivatives	Metabolism
+Transcription of SARS-CoV-1 sgRNAs	Disease
+Assembly of the SARS-CoV-1 Replication-Transcription Complex (RTC)	Disease
+Maturation of replicase proteins	Disease
+Transcription of SARS-CoV-2 sgRNAs	Disease
+Amino Acid conjugation	Metabolism
+Conjugation of carboxylic acids	Metabolism
+Conjugation of salicylate with glycine	Metabolism
+Hydrolysis of LPC	Metabolism
+Translesion Synthesis by POLH	DNA Repair
+Downregulation of ERBB4 signaling	Signal Transduction
+Regulation of innate immune responses to cytosolic DNA	Immune System
+Gap-filling DNA repair synthesis and ligation in GG-NER	DNA Repair
+PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1	Signal Transduction
+Regulation of PTEN localization	Signal Transduction
+Pexophagy	Autophagy
+Maturation of protein E	Disease
+Translation of Structural Proteins	Disease
+Maturation of protein E	Disease
+FLT3 signaling by CBL mutants	Disease
+TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling	Immune System
+Adenosine P1 receptors	Signal Transduction
+CaMK IV-mediated phosphorylation of CREB	Signal Transduction
+Cam-PDE 1 activation	Signal Transduction
+DARPP-32 events	Signal Transduction
+CREB1 phosphorylation through the activation of Adenylate Cyclase	Neuronal System
+CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde	Neuronal System
+Ionotropic activity of kainate receptors	Neuronal System
+Activation of Ca-permeable Kainate Receptor	Neuronal System
+Loss of phosphorylation of MECP2 at T308	Disease
+Activation of RAC1 downstream of NMDARs	Neuronal System
+Toxicity of botulinum toxin type A (botA)	Disease
+Assembly of the SARS-CoV-2 Replication-Transcription Complex (RTC)	Disease
+Maturation of replicase proteins	Disease
+Virion Assembly and Release	Disease
+Maturation of protein 3a	Disease
+SARS-CoV-2 modulates autophagy	Disease
+Regulation of gap junction activity	Vesicle-mediated transport
+SARS-CoV-2 targets PDZ proteins in cell-cell junction	Disease
+Maturation of protein M	Disease
+Translation of Accessory Proteins	Disease
+Maturation of nucleoprotein	Disease
+RUNX2 regulates chondrocyte maturation	Gene expression (Transcription)
+Mitochondrial iron-sulfur cluster biogenesis	Metabolism
+Electron transport from NADPH to Ferredoxin	Metabolism
+Activation, myristolyation of BID and translocation to mitochondria	Programmed Cell Death
+Glycogen storage disease type II (GAA)	Disease
+Acrosome Reaction and Sperm:Oocyte Membrane Binding	Reproduction
+Activation of BAD and translocation to mitochondria 	Programmed Cell Death
+The NLRP1 inflammasome	Immune System
+RUNX3 Regulates Immune Response and Cell Migration	Gene expression (Transcription)
+Protein repair	Metabolism of proteins
+Defective NEU1 causes sialidosis	Disease
+Fatty acids	Metabolism
+Miscellaneous substrates	Metabolism
+Dasatinib-resistant KIT mutants	Disease
+Imatinib-resistant KIT mutants	Disease
+KIT mutants bind TKIs	Disease
+Masitinib-resistant KIT mutants	Disease
+Nilotinib-resistant KIT mutants	Disease
+Regorafenib-resistant KIT mutants	Disease
+Signaling by kinase domain mutants of KIT	Disease
+Sunitinib-resistant KIT mutants	Disease
+Signaling by juxtamembrane domain KIT mutants	Disease
+Sorafenib-resistant KIT mutants	Disease
+Drug resistance of KIT mutants	Disease
+Signaling by extracellular domain mutants of KIT	Disease
+Toxicity of botulinum toxin type B (botB)	Disease
+ATF6 (ATF6-alpha) activates chaperone genes	Cellular responses to stimuli
+Defective SLC2A1 causes GLUT1 deficiency syndrome 1 (GLUT1DS1)	Disease
+Defective SLC2A2 causes Fanconi-Bickel syndrome (FBS)	Disease
+Intestinal absorption	Digestion and absorption
+Intestinal hexose absorption	Digestion and absorption
+Pyrimidine biosynthesis	Metabolism
+Acetylation	Metabolism
+STAT5 activation downstream of FLT3 ITD mutants	Disease
+mitochondrial fatty acid beta-oxidation of saturated fatty acids	Metabolism
+mitochondrial fatty acid beta-oxidation of unsaturated fatty acids	Metabolism
+Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA	Metabolism
+Beta oxidation of octanoyl-CoA to hexanoyl-CoA	Metabolism
+Signaling by FGFR1 amplification mutants	Disease
+FGFR1c and Klotho ligand binding and activation	Signal Transduction
+Defective CYP19A1 causes AEXS	Disease
+Defective pro-SFTPC causes SMDP2 and RDS	Disease
+PTK6 Regulates Cell Cycle	Signal Transduction
+Diseases of Cellular Senescence	Disease
+Evasion of Oncogene Induced Senescence Due to p16INK4A Defects	Disease
+Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4	Disease
+Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6	Disease
+Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects	Disease
+Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4	Disease
+Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6	Disease
+Diseases of cellular response to stress	Disease
+Drug-mediated inhibition of CDK4/CDK6 activity	Cell Cycle
+5-Phosphoribose 1-diphosphate biosynthesis	Metabolism
+Processive synthesis on the C-strand of the telomere	Cell Cycle
+Removal of the Flap Intermediate from the C-strand	Cell Cycle
+Mismatch Repair	DNA Repair
+Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)	DNA Repair
+Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)	DNA Repair
+Formation of lateral plate mesoderm	Developmental Biology
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components	Cell-Cell communication
+Apoptotic cleavage of cell adhesion  proteins	Programmed Cell Death
+Regulation of RUNX1 Expression and Activity	Gene expression (Transcription)
+Activated NTRK3 signals through PI3K	Signal Transduction
+STING mediated induction of host immune responses	Immune System
+IRF3-mediated induction of type I IFN	Immune System
+RHO GTPases regulate CFTR trafficking	Signal Transduction
+Eicosanoids	Metabolism
+Synthesis of diphthamide-EEF2	Metabolism of proteins
+Vitamin B2 (riboflavin) metabolism	Metabolism
+Glycogen storage disease type XV (GYG1)	Disease
+Glycogen storage disease type 0 (muscle GYS1)	Disease
+ROBO receptors bind AKAP5	Developmental Biology
+Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM)	Disease
+Maturation of spike protein	Disease
+Dopamine receptors	Signal Transduction
+SLBP independent Processing of Histone Pre-mRNAs	Metabolism of RNA
+SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs	Metabolism of RNA
+Melanin biosynthesis	Metabolism
+Interleukin-15 signaling	Immune System
+Neurotransmitter uptake and metabolism In glial cells	Neuronal System
+Astrocytic Glutamate-Glutamine Uptake And Metabolism	Neuronal System
+Fructose biosynthesis	Metabolism
+Nectin/Necl  trans heterodimerization	Cell-Cell communication
+Interleukin-9 signaling	Immune System
+Defective B4GALT1 causes CDG-2d	Disease
+Phase 3 - rapid repolarisation	Muscle contraction
+Phase 2 - plateau phase	Muscle contraction
+Defective CYP11B1 causes AH4	Disease
+MPS IIID - Sanfilippo syndrome D	Disease
+MPS VI - Maroteaux-Lamy syndrome	Disease
+Maturation of protein 3a	Disease
+Termination of O-glycan biosynthesis	Metabolism of proteins
+Defective GALNT3 causes HFTC	Disease
+Defective C1GALT1C1 causes TNPS	Disease
+Defective GALNT12 causes CRCS1	Disease
+Biosynthesis of DPAn-6 SPMs	Metabolism
+PKA-mediated phosphorylation of key metabolic factors	Metabolism
+PP2A-mediated dephosphorylation of key metabolic factors	Metabolism
+Beta oxidation of hexanoyl-CoA to butanoyl-CoA	Metabolism
+Beta oxidation of butanoyl-CoA to acetyl-CoA	Metabolism
+MECP2 regulates transcription factors	Gene expression (Transcription)
+Imatinib-resistant PDGFR mutants	Disease
+Sunitinib-resistant PDGFR mutants	Disease
+Regorafenib-resistant PDGFR mutants	Disease
+Sorafenib-resistant PDGFR mutants	Disease
+Drug resistance of PDGFR mutants	Disease
+PDGFR mutants bind TKIs	Disease
+Coenzyme A biosynthesis	Metabolism
+MPS IV - Morquio syndrome B	Disease
+ABO blood group biosynthesis	Metabolism
+LTC4-CYSLTR mediated IL4 production	Disease
+MGMT-mediated DNA damage reversal	DNA Repair
+DNA Damage Reversal	DNA Repair
+Methionine salvage pathway	Metabolism
+Serotonin and melatonin biosynthesis	Metabolism
+RUNX2 regulates genes involved in differentiation of myeloid cells	Gene expression (Transcription)
+Folding of actin by CCT/TriC	Metabolism of proteins
+PTK6 Down-Regulation	Signal Transduction
+Synthesis of Hepoxilins (HX) and Trioxilins (TrX)	Metabolism
+Rhesus blood group biosynthesis	Metabolism
+Toxicity of botulinum toxin type C (botC)	Disease
+Defective CYP11B2 causes CMO-1 deficiency	Disease
+Activated NTRK2 signals through PLCG1	Signal Transduction
+Activated NTRK3 signals through PLCG1	Signal Transduction
+Toxicity of botulinum toxin type D (botD)	Disease
+Defective HK1 causes hexokinase deficiency (HK deficiency)	Disease
+Defective GGT1 causes GLUTH	Disease
+Defective GGT1 in aflatoxin detoxification causes GLUTH	Disease
+Sodium/Proton exchangers	Transport of small molecules
+NR1H2 & NR1H3 regulate gene expression to limit cholesterol uptake 	Signal Transduction
+NR1H2 & NR1H3 regulate gene expression linked to gluconeogenesis 	Signal Transduction
+DEx/H-box helicases activate type I IFN and inflammatory cytokines production 	Immune System
+Defective TCN2 causes TCN2 deficiency	Disease
+Defective CD320 causes MMATC	Disease
+Tachykinin receptors bind tachykinins	Signal Transduction
+Diseases of Mismatch Repair (MMR)	Disease
+Defective Mismatch Repair Associated With MSH3	Disease
+Defective Mismatch Repair Associated With MSH2	Disease
+NTF3 activates NTRK2 (TRKB) signaling	Signal Transduction
+NTF3 activates NTRK3 signaling	Signal Transduction
+MTF1 activates gene expression	Cellular responses to stimuli
+Amine Oxidase reactions	Metabolism
+Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB	Metabolism
+Enzymatic degradation of dopamine by COMT	Neuronal System
+Enzymatic degradation of Dopamine by monoamine oxidase	Neuronal System
+Dopamine clearance from the synaptic cleft	Neuronal System
+Defective MAOA causes BRUNS	Disease
+Defective ABCB4 causes PFIC3, ICP3 and GBD1	Disease
+Toxicity of botulinum toxin type G (botG)	Disease
+Interconversion of polyamines	Metabolism
+Eicosanoid ligand-binding receptors	Signal Transduction
+Prostanoid ligand receptors	Signal Transduction
+Signaling by FGFR2 amplification mutants	Disease
+Signaling by FGFR2 fusions	Disease
+Defective MMAA causes MMA, cblA type	Disease
+Defective MUT causes MMAM	Disease
+Cobalamin (Cbl) metabolism	Metabolism
+Diseases of mitochondrial beta oxidation	Disease
+Diseases of propionyl-CoA catabolism	Disease
+MPS II - Hunter syndrome	Disease
+Defective UGT1A1 causes hyperbilirubinemia	Disease
+Defective UGT1A4 causes hyperbilirubinemia	Disease
+FGFR4 mutant receptor activation	Disease
+t(4;14) translocations of FGFR3	Disease
+Signaling by FGFR3 fusions in cancer	Disease
+COX reactions	Metabolism
+Interleukin-21 signaling	Immune System
+Metabolism of ingested SeMet, Sec, MeSec into H2Se	Metabolism
+Defective AHCY causes HMAHCHD	Disease
+BDNF activates NTRK2 (TRKB) signaling	Signal Transduction
+Activated NTRK2 signals through PI3K	Signal Transduction
+Activated NTRK2 signals through CDK5	Signal Transduction
+Toxicity of botulinum toxin type F (botF)	Disease
+Defective SLC6A2 causes orthostatic intolerance (OI)	Disease
+Alanine metabolism	Metabolism
+Defective TBXAS1 causes GHDD	Disease
+Ketone body metabolism	Metabolism
+Utilization of Ketone Bodies	Metabolism
+Synthesis of Ketone Bodies	Metabolism
+Histamine receptors	Signal Transduction
+APC truncation mutants are not K63 polyubiquitinated	Disease
+FasL/ CD95L signaling	Signal Transduction
+SUMOylation of immune response proteins	Metabolism of proteins
+Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA	Metabolism of RNA
+Defective CBLIF causes IFD	Disease
+ERKs are inactivated	Immune System
+Signaling by MAP2K mutants	Disease
+Beta oxidation of myristoyl-CoA to lauroyl-CoA	Metabolism
+Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA	Metabolism
+RUNX3 regulates YAP1-mediated transcription	Gene expression (Transcription)
+phospho-PLA2 pathway	Signal Transduction
+Signaling by MAPK mutants	Disease
+Insulin effects increased synthesis of Xylulose-5-Phosphate	Metabolism
+NOSIP mediated eNOS trafficking	Metabolism
+Reuptake of GABA	Neuronal System
+FMO oxidises nucleophiles	Metabolism
+Defective FMO3 causes TMAU	Disease
+Defective SLC5A2 causes renal glucosuria (GLYS1)	Disease
+AKT-mediated inactivation of FOXO1A	Developmental Biology
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA	Metabolism of RNA
+PKB-mediated events	Signal Transduction
+PDE3B signalling	Signal Transduction
+Inhibition of TSC complex formation by PKB	Signal Transduction
+mRNA Editing: C to U Conversion	Metabolism of RNA
+mRNA Editing	Metabolism of RNA
+Formation of the Editosome	Metabolism of RNA
+RUNX1 regulates transcription of genes involved in BCR signaling	Gene expression (Transcription)
+Cysteine formation from homocysteine	Metabolism
+RHO GTPases activate KTN1	Signal Transduction
+Defective ABCD1 causes ALD	Disease
+MPS IV - Morquio syndrome A	Disease
+NTF4 activates NTRK2 (TRKB) signaling	Signal Transduction
+Defective MPI causes MPI-CDG	Disease
+LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production	Immune System
+Inhibition of nitric oxide production	Disease
+Nicotinamide salvaging	Metabolism
+MPS I - Hurler syndrome	Disease
+Defective GCK causes maturity-onset diabetes of the young 2 (MODY2)	Disease
+Glycogen storage disease type Ia (G6PC)	Disease
+Defective SLC16A1 causes symptomatic deficiency in lactate transport (SDLT)	Disease
+Synthesis of PE	Metabolism
+NOTCH4 Intracellular Domain Regulates Transcription	Signal Transduction
+Signaling by membrane-tethered fusions of PDGFRA or PDGFRB	Disease
+Electric Transmission Across Gap Junctions	Neuronal System
+Transmission across Electrical Synapses 	Neuronal System
+Repression of WNT target genes	Signal Transduction
+Phosphate bond hydrolysis by NUDT proteins	Metabolism
+Defective PGM1 causes PGM1-CDG	Disease
+STAT5 Activation	Immune System
+Drug resistance of FLT3 mutants	Disease
+FLT3 mutants bind TKIs	Disease
+KW2449-resistant FLT3 mutants	Disease
+semaxanib-resistant FLT3 mutants	Disease
+crenolanib-resistant FLT3 mutants	Disease
+gilteritinib-resistant FLT3 mutants	Disease
+lestaurtinib-resistant FLT3 mutants	Disease
+midostaurin-resistant FLT3 mutants	Disease
+pexidartinib-resistant FLT3 mutants	Disease
+ponatinib-resistant FLT3 mutants	Disease
+quizartinib-resistant FLT3 mutants	Disease
+sorafenib-resistant FLT3 mutants	Disease
+sunitinib-resistant FLT3 mutants	Disease
+tandutinib-resistant FLT3 mutants	Disease
+linifanib-resistant FLT3 mutants	Disease
+tamatinib-resistant FLT3 mutants	Disease
+Sensory perception of salty taste	Sensory Perception
+TALDO1 deficiency: failed conversion of SH7P, GA3P to Fru(6)P, E4P	Disease
+TALDO1 deficiency: failed conversion of  Fru(6)P, E4P to SH7P, GA3P	Disease
+Pentose phosphate pathway disease	Disease
+Defective DNA double strand break response due to BRCA1 loss of function	Disease
+Defective DNA double strand break response due to BARD1 loss of function	Disease
+Activation of Na-permeable kainate receptors	Neuronal System
+Defective Mismatch Repair Associated With MLH1	Disease
+Defective Mismatch Repair Associated With PMS2	Disease
+Defective SLC26A3 causes congenital secretory chloride diarrhea 1 (DIAR1)	Disease
+Beta oxidation of palmitoyl-CoA to myristoyl-CoA	Metabolism
+STAT6-mediated induction of chemokines	Immune System
+Activation of AMPA receptors	Neuronal System
+Stimulation of the cell death response by PAK-2p34	Programmed Cell Death
+Defective SLC1A3 causes episodic ataxia 6 (EA6)	Disease
+Defective SLC1A1 is implicated in schizophrenia 18 (SCZD18) and dicarboxylic aminoaciduria (DCBXA)	Disease
+Defective Mismatch Repair Associated With MSH6	Disease
+Defective BTD causes biotidinase deficiency	Disease
+Activation of BMF and translocation to mitochondria	Programmed Cell Death
+Interleukin-38 signaling	Immune System
+Proton/oligopeptide cotransporters	Transport of small molecules
+SUMOylation of nuclear envelope proteins	Metabolism of proteins
+Alternative Lengthening of Telomeres (ALT)	Disease
+Defective Inhibition of DNA Recombination at Telomere Due to DAXX Mutations	Disease
+Defective Inhibition of DNA Recombination at Telomere Due to ATRX Mutations	Disease
+Defective Inhibition of DNA Recombination at Telomere	Disease
+Diseases of Telomere Maintenance	Disease
+Pre-NOTCH Processing in the Endoplasmic Reticulum	Signal Transduction
+FBXW7 Mutants and NOTCH1 in Cancer	Disease
+Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling	Disease
+Defective LFNG causes SCDO3	Disease
+RUNX3 regulates NOTCH signaling	Gene expression (Transcription)
+Potassium transport channels	Neuronal System
+Classical Kir channels	Neuronal System
+Synthesis of PIPs in the nucleus	Metabolism
+POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation	Developmental Biology
+Defective GCLC causes HAGGSD	Disease
+Defective GSS causes GSS deficiency	Disease
+Synthesis of PS	Metabolism
+PI and PC transport between ER and Golgi membranes	Metabolism
+Hydroxycarboxylic acid-binding receptors	Signal Transduction
+RPIA deficiency: failed conversion of R5P to RU5P	Disease
+RPIA deficiency: failed conversion of RU5P to R5P	Disease
+Defective SLC11A2 causes hypochromic microcytic anemia, with iron overload 1 (AHMIO1)	Disease
+Hypusine synthesis from eIF5A-lysine	Metabolism of proteins
+Choline catabolism	Metabolism
+Vitamin E	Metabolism
+Noncanonical activation of NOTCH3	Signal Transduction
+Maturation of nucleoprotein	Disease
+Regulation of thyroid hormone activity	Metabolism
+Essential fructosuria	Disease
+Defective SLC26A2 causes chondrodysplasias	Disease
+Defective GALK1 causes GALCT2	Disease
+Defective TPMT causes TPMT deficiency	Disease
+Impaired BRCA2 translocation to the nucleus	Disease
+Impaired BRCA2 binding to SEM1 (DSS1)	Disease
+Loss of MECP2 binding ability to 5hmC-DNA	Disease
+Loss of MECP2 binding ability to 5mC-DNA	Disease
+MECP2 regulates transcription of genes involved in GABA signaling	Gene expression (Transcription)
+Degradation of GABA	Neuronal System
+MPS IIIA - Sanfilippo syndrome A	Disease
+Mitotic Metaphase/Anaphase Transition	Cell Cycle
+Synthesis of Dolichyl-phosphate	Metabolism of proteins
+Inositol transporters	Transport of small molecules
+MPS IIIB - Sanfilippo syndrome B	Disease
+Cation-coupled Chloride cotransporters	Transport of small molecules
+Defective SLC12A3 causes Gitelman syndrome (GS)	Disease
+mRNA Editing: A to I Conversion	Metabolism of RNA
+C6 deamination of adenosine	Metabolism of RNA
+Formation of editosomes by ADAR proteins	Metabolism of RNA
+SUMO is conjugated to E1 (UBA2:SAE1)	Metabolism of proteins
+SUMO is transferred from E1 to E2 (UBE2I, UBC9)	Metabolism of proteins
+SUMO is proteolytically processed	Metabolism of proteins
+Processing and activation of SUMO	Metabolism of proteins
+Activation and oligomerization of BAK protein	Programmed Cell Death
+Activation, translocation and oligomerization of BAX	Programmed Cell Death
+Signaling by TCF7L2 mutants	Disease
+Virion Assembly and Release	Disease
+Maturation of protein M	Disease
+SARS-CoV-1-mediated effects on programmed cell death	Disease
+SARS-CoV-1 targets PDZ proteins in cell-cell junction	Disease
+PTEN Loss of Function in Cancer	Disease
+Regulation of PTEN mRNA translation	Signal Transduction
+Toxicity of botulinum toxin type E (botE)	Disease
+Sensory perception of sour taste	Sensory Perception
+Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M)	Disease
+Transport of nucleotide sugars	Transport of small molecules
+Defective SLC35A1 causes congenital disorder of glycosylation 2F (CDG2F)	Disease
+Defective SLC35A1 causes congenital disorder of glycosylation 2F (CDG2F)	Disease
+Defective Base Excision Repair Associated with NTHL1	Disease
+Defective NTHL1 substrate processing	Disease
+Defective NTHL1 substrate binding	Disease
+Defective SLC3A1 causes cystinuria (CSNU)	Disease
+Defective SLC7A9 causes cystinuria (CSNU)	Disease
+Loss of Function of SMAD4 in Cancer	Disease
+SMAD4 MH2 Domain Mutants in Cancer	Disease
+SMAD2/3 MH2 Domain Mutants in Cancer	Disease
+Cell redox homeostasis	Disease
+Tolerance of reactive oxygen produced by macrophages	Disease
+Antimicrobial action and antimicrobial resistance in Mtb	Disease
+Blockage of phagosome acidification	Disease
+Defective MAT1A causes MATD	Disease
+Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)	Disease
+Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)	Disease
+Rhesus glycoproteins mediate ammonium transport.	Transport of small molecules
+Defective RHAG causes regulator type Rh-null hemolytic anemia (RHN)	Disease
+Defective CYP27A1 causes CTX	Disease
+Biosynthesis of DHA-derived sulfido conjugates	Metabolism
+Biosynthesis of maresin conjugates in tissue regeneration (MCTR)	Metabolism
+Defective ACY1 causes encephalopathy	Disease
+GABA synthesis	Neuronal System
+Defective GFPT1 causes CMSTA1	Disease
+mRNA decay by 3' to 5' exoribonuclease	Metabolism of RNA
+Defective SLC34A1 causes hypophosphatemic nephrolithiasis/osteoporosis 1 (NPHLOP1)	Disease
+Defective Intrinsic Pathway for Apoptosis Due to p14ARF Loss of Function	Disease
+NTRK3 as a dependence receptor	Signal Transduction
+Defective CYP24A1 causes HCAI	Disease
+Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1)	Disease
+Conjugation of benzoate with glycine	Metabolism
+Conjugation of phenylacetate with glutamine	Metabolism
+Reactions specific to the hybrid N-glycan synthesis pathway	Metabolism of proteins
+Defective ABCC8 can cause hypo- and hyper-glycemias	Disease
+Defective MGAT2 causes CDG-2a	Disease
+Acetylcholine inhibits contraction of outer hair cells	Sensory Perception
+MPS IX - Natowicz syndrome	Disease
+Signalling to ERK5	Signal Transduction
+Sodium-coupled sulphate, di- and tri-carboxylate transporters	Transport of small molecules
+Leukotriene receptors	Signal Transduction
+Zinc transporters	Transport of small molecules
+Zinc influx into cells by the SLC39 gene family	Transport of small molecules
+Defective SLC12A1 causes Bartter syndrome 1 (BS1)	Disease
+Defective MOGS causes CDG-2b	Disease
+RUNX3 regulates RUNX1-mediated transcription	Gene expression (Transcription)
+Defective POMGNT1 causes MDDGA3, MDDGB3 and MDDGC3	Disease
+Defective POMT2 causes MDDGA2, MDDGB2 and MDDGC2	Disease
+Defective POMT1 causes MDDGA1, MDDGB1 and MDDGC1	Disease
+Defective GALE causes EDG	Disease
+IRF3 mediated activation of type 1 IFN	Immune System
+Organic anion transporters	Transport of small molecules
+Pyrophosphate hydrolysis	Metabolism
+Sterols are 12-hydroxylated by CYP8B1	Metabolism
+Defective CYP1B1 causes Glaucoma	Disease
+Biosynthesis of protectin and resolvin conjugates in tissue regeneration (PCTR and RCTR)	Metabolism
+Metabolism of ingested MeSeO2H into MeSeH	Metabolism
+Defective ALG11 causes CDG-1p	Disease
+Proton-coupled neutral amino acid transporters	Transport of small molecules
+Defective SLC36A2 causes iminoglycinuria (IG) and hyperglycinuria (HG)	Disease
+Organic anion transport	Transport of small molecules
+SDK interactions	Cell-Cell communication
+Wax biosynthesis	Metabolism
+MPS IIIC - Sanfilippo syndrome C	Disease
+Defective SLC6A19 causes Hartnup disorder (HND)	Disease
+Defective SLC6A19 causes Hartnup disorder (HND)	Disease
+Oleoyl-phe metabolism	Metabolism
+rRNA modification in the mitochondrion	Metabolism of RNA
+Biosynthesis of A2E, implicated in retinal degradation	Disease
+ALKBH2 mediated reversal of alkylation damage	DNA Repair
+Reversal of alkylation damage by DNA dioxygenases	DNA Repair
+Defective CYP4F22 causes ARCI5	Disease
+Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS)	Disease
+Defective SLC39A4 causes acrodermatitis enteropathica, zinc-deficiency type (AEZ)	Disease
+Phase 1 - inactivation of fast Na+ channels	Muscle contraction
+PAOs oxidise polyamines to amines	Metabolism
+Glycerophospholipid catabolism	Metabolism
+Defective CYP26C1 causes FFDD4	Disease
+Defective CYP27B1 causes VDDR1B	Disease
+Defective SLC24A5 causes oculocutaneous albinism 6 (OCA6)	Disease
+TWIK-related spinal cord K+ channel (TRESK)	Neuronal System
+Defective CYP2U1 causes SPG56	Disease
+Essential pentosuria	Disease
+Defective DHDDS causes RP59	Disease
+Defective ABCA12 causes ARCI4B	Disease
+Regulation of NPAS4 mRNA translation	Gene expression (Transcription)
+Defective SLC9A9 causes autism 16 (AUTS16)	Disease
+Defective SFTPA2 causes IPF	Disease
+Zinc efflux and compartmentalization by the SLC30 family	Transport of small molecules
+Interconversion of 2-oxoglutarate and 2-hydroxyglutarate	Metabolism
+Metabolism of vitamin K	Metabolism
+Defective SLC34A3 causes Hereditary hypophosphatemic rickets with hypercalciuria (HHRH)	Disease
+Arachidonate production from DAG	Hemostasis
+ALKBH3 mediated reversal of alkylation damage	DNA Repair
+Evasion of Oncogene Induced Senescence Due to p14ARF Defects	Disease
+Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects	Disease
+Post-transcriptional silencing by small RNAs	Gene expression (Transcription)
+Competing endogenous RNAs (ceRNAs) regulate PTEN translation	Signal Transduction
+Defective SLC17A8 causes autosomal dominant deafness 25 (DFNA25)	Disease
+Defective SLC24A4 causes hypomineralized amelogenesis imperfecta (AI)	Disease
+Synthesis of IPs in the nucleus	Metabolism
+Defective Base Excision Repair Associated with NEIL3	Disease
+NEIL3-mediated resolution of ICLs	DNA Repair
+Interleukin-36 pathway	Immune System
+Defective SLC9A6 causes  X-linked, syndromic mental retardation,, Christianson type (MRXSCH)	Disease
+Defective ALG3 causes CDG-1d	Disease
+Defective ABCC2 causes DJS	Disease
+Defective SLC5A5 causes thyroid dyshormonogenesis 1 (TDH1)	Disease
+Defective SLCO2A1 causes primary, autosomal recessive hypertrophic osteoarthropathy 2 (PHOAR2)	Disease
+Defective SLC35C1 causes congenital disorder of glycosylation 2C (CDG2C)	Disease
+Agmatine biosynthesis	Metabolism
+Defective RFT1 causes CDG-1n	Disease
+Defective SLC22A18 causes lung cancer (LNCR) and embryonal rhabdomyosarcoma 1 (RMSE1)	Disease
+Defective MMAB causes MMA, cblB type	Disease
+Defective ALG14 causes ALG14-CMS	Disease
+Defective Base Excision Repair Associated with NEIL1	Disease
+Defective SLC6A18 may confer susceptibility to iminoglycinuria and/or hyperglycinuria	Disease
+Defective SLC6A18 may confer susceptibility to iminoglycinuria and/or hyperglycinuria	Disease
+Defective SLC22A12 causes renal hypouricemia 1 (RHUC1)	Disease
+TWIK-related alkaline pH activated K+ channel (TALK)	Neuronal System
+Mitochondrial transcription termination	Gene expression (Transcription)
+Defective MTRR causes HMAE	Disease
+Defective MTR causes HMAG	Disease
+Defective ABCA3 causes SMDP3	Disease
+Defective ABCA3 causes SMDP3	Disease
+Defective SLC40A1 causes hemochromatosis 4 (HFE4) (duodenum)	Disease
+Defective ALG1 causes CDG-1k	Disease
+Severe congenital neutropenia type 4 (G6PC3)	Disease
+Defective ALG12 causes CDG-1g	Disease
+Defective ALG8 causes CDG-1h	Disease
+Defective SLC29A3 causes histiocytosis-lymphadenopathy plus syndrome (HLAS)	Disease
+Defective SLC5A7 causes distal hereditary motor neuronopathy 7A (HMN7A)	Disease
+Defective SLC5A7 causes distal hereditary motor neuronopathy 7A (HMN7A)	Disease
+Defective ABCG8 causes GBD4 and sitosterolemia	Disease
+Defective ABCG5 causes sitosterolemia	Disease
+LGK974 inhibits PORCN	Disease
+Defective DPAGT1 causes CDG-1j, CMSTA2	Disease
+Defective MMADHC causes MMAHCD	Disease
+Defective ALG2 causes CDG-1i	Disease
+Defective ALG9 causes CDG-1l	Disease
+Defective SRD5A3 causes SRD5A3-CDG, KHRZ	Disease
+Tandem pore domain halothane-inhibited K+ channel (THIK)	Neuronal System
+Defective ABCB6 causes MCOPCB7	Disease
+Variant SLC6A20 contributes towards hyperglycinuria (HG) and iminoglycinuria (IG)	Disease
+Variant SLC6A20 contributes towards hyperglycinuria (HG) and iminoglycinuria (IG)	Disease
+Hydrolysis of LPE	Metabolism
+Defective SLCO1B3 causes hyperbilirubinemia, Rotor type (HBLRR)	Disease
+Defective CYP26B1 causes RHFCA	Disease
+Defective SLC17A5 causes Salla disease (SD) and ISSD	Disease
+Defective SLC2A9 causes hypouricemia renal 2 (RHUC2)	Disease
+Regulation by TREX1	Immune System
+Defective SLC35D1 causes SCHBCKD	Disease
+Intestinal lipid absorption	Digestion and absorption
+Defective SLC12A6 causes agenesis of the corpus callosum, with peripheral neuropathy (ACCPN)	Disease
+Defective Base Excision Repair Associated with MUTYH	Disease
+Defective MUTYH substrate binding	Disease
+Defective MUTYH substrate processing	Disease
+Synthesis of CL	Metabolism
+Defective MAN1B1 causes MRT15	Disease
+Drug resistance of ALK mutants	Disease
+ASP-3026-resistant ALK mutants	Disease
+NVP-TAE684-resistant ALK mutants	Disease
+alectinib-resistant ALK mutants	Disease
+brigatinib-resistant ALK mutants	Disease
+ceritinib-resistant ALK mutants	Disease
+crizotinib-resistant ALK mutants	Disease
+lorlatinib-resistant ALK mutants	Disease
+Variant SLC6A14 may confer susceptibility towards obesity	Disease
+Synthesis of IPs in the ER lumen	Metabolism
+Defective DOLK causes DOLK-CDG	Disease
+Defective GNE causes sialuria, NK and IBM2	Disease
+Defective SLC35A3 causes arthrogryposis, mental retardation, and seizures (AMRS)	Disease
+Defective SLC6A5 causes hyperekplexia 3 (HKPX3)	Disease
+Defective MMACHC causes MAHCC	Disease
+Defective ALG6 causes CDG-1c	Disease
+Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR)	Disease
+Defective SLC4A4 causes renal tubular acidosis, proximal, with ocular abnormalities and mental retardation (pRTA-OA)	Disease
